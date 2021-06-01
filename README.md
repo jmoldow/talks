@@ -1,13 +1,9 @@
 # talks
 Talks I've presented at conferences, meetups, etc.
 
-## Percona Live Online - May 2021
+## [Percona Live Online - May 2021](https://www.percona.com/conferences/percona-live-online-2021 "Percona Live Online - May 2021")
 
-https://www.percona.com/conferences/percona-live-online-2021
-
-https://web.archive.org/web/20210601050420/https://perconaliveonline.sched.com/
-
-https://web.archive.org/web/20210508001339/https://perconaliveonline.sched.com/speaker/jmoldow
+#### [Speaker Profile - Jordan Moldow](https://web.archive.org/web/20210508001339/https://perconaliveonline.sched.com/speaker/jmoldow "Speaker Profile - Jordan Moldow")
 
 ### [Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes](https://web.archive.org/web/20210508001359/https://perconaliveonline.sched.com/event/io6K/deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes "Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes")
 
