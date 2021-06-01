@@ -70,3 +70,21 @@ Puppet is integral to Box's infrastructure, serving many purposes. Use of Puppet
 #### [Slides](https://app.box.com/s/vu4cyf0s1eoqg1s9xd1se89tx71zcnoy "Slides")
 
 #### [Recording](https://www.youtube.com/watch?v=5JT2em4YYIo "Recording")
+
+## Miscellaneous Classes / Meetups / Code Walkthroughs / Tutorials
+
+### [Python 3 Async Tutorial](https://github.com/jmoldow/jmoldow-python3-async-tutorial "Python 3 Async Tutorial")
+
+Tutorial for everything async in Python3: generators, coroutines, async/await syntax, and asyncio.
+
+This Jupyter notebooks tutorial is meant to cement my own understanding of async programming in Python, as well as to augment the existing body of documentation on these subjects, since I personally found them to be lacking for beginners.
+
+We'll start from simple generators, moving to yield from syntax, and then to coroutines. From there we'll show how the language was extended with async/await syntax and native coroutines, and then finally we'll look at how the asyncio library executes these coroutines via its event loop.
+
+Presented at public and internal Python meetups / code walkthroughs.
+
+### [Intro Programming (in Python)](https://github.com/jmoldow/python-splash-lesson "Intro Programming (in Python)")
+
+A two-hour, introductory programming course, for beginners in high school or middle school, using the Python programming language.
+
+Taught at various [MIT ESP Splash programs and Spark programs](https://esp.mit.edu/learn/index.html "MIT ESP Splash programs and Spark programs").
