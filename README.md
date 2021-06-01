@@ -9,7 +9,7 @@ https://web.archive.org/web/20210601050420/https://perconaliveonline.sched.com/
 
 https://web.archive.org/web/20210508001339/https://perconaliveonline.sched.com/speaker/jmoldow
 
-### Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes
+### [Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes](https://web.archive.org/web/20210508001359/https://perconaliveonline.sched.com/event/io6K/deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes "Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes")
 
 I show, with a live demo/tutorial, that deploying and evaluating a Vitess ("A database clustering system for horizontal scaling of MySQL" - https://vitess.io) sandbox cluster, into a public cloud environment, can be done super easily.
 
@@ -19,21 +19,11 @@ Even with the best possible documentation (and the Vitess documentation is quite
 
 For this demo, I use the excellent open-source Vitess-operator for Kubernetes, provided by PlanetScale. Even if you aren't considering deploying Vitess on Kubernetes in production, I still highly recommend it for sandbox use. Deploying an arbitrary number of components is super trivial with the operator, and everything auto-wires automatically. No need to delay your evaluation by needing to manually bootstrap a cluster one node at a time, or write your own deployment tools.
 
-#### Official link
+#### [Slides](https://app.box.com/s/p3e03oqiwv1q3mtclm34mpcb6tqub75j "Slides")
 
-https://web.archive.org/web/20210508001359/https://perconaliveonline.sched.com/event/io6K/deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes
+#### [Vitess operator examples](https://github.com/jmoldow/vitess-operator-examples "Vitess operator examples")
 
-#### Slides
-
-https://app.box.com/s/p3e03oqiwv1q3mtclm34mpcb6tqub75j
-
-#### Vitess operator examples
-
-https://github.com/jmoldow/vitess-operator-examples
-
-#### Recording
-
-https://app.box.com/s/ux2i075yef3n4psm0ycm38kmqcfz8l0i
+#### [Recording](https://app.box.com/s/ux2i075yef3n4psm0ycm38kmqcfz8l0i "Recording")
 
 ### The Last Mile - Delivering the Last 10% of a 4-year Migration
 
