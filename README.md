@@ -25,7 +25,7 @@ For this demo, I use the excellent open-source Vitess-operator for Kubernetes, p
 
 #### [Recording](https://app.box.com/s/ux2i075yef3n4psm0ycm38kmqcfz8l0i "Recording")
 
-### The Last Mile - Delivering the Last 10% of a 4-year Migration
+### [The Last Mile - Delivering the Last 10% of a 4-year Migration](https://web.archive.org/web/20210508001407/https://perconaliveonline.sched.com/event/io6f/the-last-mile-delivering-the-last-10-of-a-four-year-migration "The Last Mile - Delivering the Last 10% of a 4-year Migration")
 
 In complex projects, the last 10% of the project is often the most difficult part. In this talk, I will share a case study of Box's 4-year effort to get rid of our legacy mapping DB and move the last piece of our legacy monolith MySQL traffic to our data access layer. This talk will cover how to manage technical risk and optimize team execution in a technically complex and operationally distributed environment. This talk will share reflections on useful tactics that led to the successful completion of this four-year migration project for others to learn from and leverage.
 
@@ -37,14 +37,6 @@ In this session, we will have a candid discussion on the technical and organizat
 
 Participants will leave with a few ideas that they should be able to try out within their own teams. Additionally, there are some deeper ideas about team leadership and effectiveness that I hope participants will be able to reflect on going forwards.
 
-#### Official link
+#### [Slides](https://app.box.com/s/453j26vrbjbqpffr4spd27prfeq3y2m7 "Slides")
 
-https://web.archive.org/web/20210508001407/https://perconaliveonline.sched.com/event/io6f/the-last-mile-delivering-the-last-10-of-a-four-year-migration
-
-#### Slides
-
-https://app.box.com/s/453j26vrbjbqpffr4spd27prfeq3y2m7
-
-#### Recording
-
-https://app.box.com/s/ma2ozl7paaj4px6xfvapy3gaa9cbz3gj
+#### [Recording](https://app.box.com/s/ma2ozl7paaj4px6xfvapy3gaa9cbz3gj "Recording")
