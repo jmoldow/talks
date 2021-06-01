@@ -1,6 +1,21 @@
 # talks
 Talks I've presented at conferences, meetups, etc.
 
+##### Table of Contents
+
+- [Percona Live Online - May 2021](#-percona-live-online---may-2021--https---wwwperconacom-conferences-percona-live-online-2021--percona-live-online---may-2021--)
+  * [Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes](#-deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes--https---webarchiveorg-web-20210508001359-https---perconaliveonlineschedcom-event-io6k-deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes--deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes--)
+  * [The Last Mile - Delivering the Last 10% of a 4-year Migration](#-the-last-mile---delivering-the-last-10--of-a-4-year-migration--https---webarchiveorg-web-20210508001407-https---perconaliveonlineschedcom-event-io6f-the-last-mile-delivering-the-last-10-of-a-four-year-migration--the-last-mile---delivering-the-last-10--of-a-4-year-migration--)
+  * [Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations](#-introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations--https---webarchiveorg-web-20210508001423-https---perconaliveonlineschedcom-event-io8y-introducing-transit-nodes-a-sparse-data-structure-for-recording-sharding-denormalizations--introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations--)
+- [PuppetConf - October 2016](#-puppetconf---october-2016--https---webarchiveorg-web-20200929171915-https---puppetconf2016schedcom---puppetconf---october-2016--)
+  * [Turning Pain Into Gain: A Puppet Unit Testing Story](#-turning-pain-into-gain--a-puppet-unit-testing-story--https---webarchiveorg-web-20201021080349-https---puppetconf2016schedcom-event-6fjl-turning-pain-into-gain-a-unit-testing-story-nadeem-ahmad-jordan-moldow-box--turning-pain-into-gain--a-puppet-unit-testing-story--)
+- [Miscellaneous Classes / Meetups / Code Walkthroughs / Tutorials](#miscellaneous-classes---meetups---code-walkthroughs---tutorials)
+  * [Python 3 Async Tutorial](#-python-3-async-tutorial--https---githubcom-jmoldow-jmoldow-python3-async-tutorial--python-3-async-tutorial--)
+  * [Intro Programming (in Python)](#-intro-programming--in-python---https---githubcom-jmoldow-python-splash-lesson--intro-programming--in-python---)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## [Percona Live Online - May 2021](https://www.percona.com/conferences/percona-live-online-2021 "Percona Live Online - May 2021")
 
 #### [Speaker Profile - Jordan Moldow](https://web.archive.org/web/20210508001339/https://perconaliveonline.sched.com/speaker/jmoldow "Speaker Profile - Jordan Moldow")
