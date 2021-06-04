@@ -5,13 +5,13 @@ Talks I've presented at conferences, meetups, etc.
 
 - [Percona Live Online - May 2021](#percona-live-online---may-2021)
   * [Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes](#deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes)
-  * [The Last Mile - Delivering the Last 10% of a 4-year Migration](#the-last-mile---delivering-the-last-10--of-a-4-year-migration)
+  * [The Last Mile - Delivering the Last 10 Percent of a 4-year Migration](#the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration)
   * [Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations](#introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations)
 - [PuppetConf - October 2016](#puppetconf---october-2016)
-  * [Turning Pain Into Gain: A Puppet Unit Testing Story](#turning-pain-into-gain--a-puppet-unit-testing-story)
-- [Miscellaneous Classes / Meetups / Code Walkthroughs / Tutorials](#miscellaneous-classes---meetups---code-walkthroughs---tutorials)
+  * [Turning Pain Into Gain - A Puppet Unit Testing Story](#turning-pain-into-gain---a-puppet-unit-testing-story)
+- [Miscellaneous](#miscellaneous)
   * [Python 3 Async Tutorial](#python-3-async-tutorial)
-  * [Intro Programming (in Python)](#intro-programming--in-python-)
+  * [Intro Programming in Python](#intro-programming-in-python)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -37,7 +37,7 @@ For this demo, I use the excellent open-source Vitess-operator for Kubernetes, p
 
 - [Recording](https://app.box.com/s/ux2i075yef3n4psm0ycm38kmqcfz8l0i "Recording")
 
-### The Last Mile - Delivering the Last 10% of a 4-year Migration
+### The Last Mile - Delivering the Last 10 Percent of a 4-year Migration
 - [The Last Mile - Delivering the Last 10% of a 4-year Migration](https://web.archive.org/web/20210508001407/https://perconaliveonline.sched.com/event/io6f/the-last-mile-delivering-the-last-10-of-a-four-year-migration "The Last Mile - Delivering the Last 10% of a 4-year Migration")
 
 In complex projects, the last 10% of the project is often the most difficult part. In this talk, I will share a case study of Box's 4-year effort to get rid of our legacy mapping DB and move the last piece of our legacy monolith MySQL traffic to our data access layer. This talk will cover how to manage technical risk and optimize team execution in a technically complex and operationally distributed environment. This talk will share reflections on useful tactics that led to the successful completion of this four-year migration project for others to learn from and leverage.
@@ -82,7 +82,7 @@ We will briefly cover the context of sharding at Box, to provide the motivation 
 
 - [Speaker Profile - Jordan Moldow](https://web.archive.org/web/20210228060544/https://puppetconf2016.sched.com/speaker/jordan_moldow.1vbsm1tl "Speaker Profile - Jordan Moldow")
 
-### Turning Pain Into Gain: A Puppet Unit Testing Story
+### Turning Pain Into Gain - A Puppet Unit Testing Story
 - [Turning Pain Into Gain: A Puppet Unit Testing Story](https://web.archive.org/web/20201021080349/https://puppetconf2016.sched.com/event/6fjL/turning-pain-into-gain-a-unit-testing-story-nadeem-ahmad-jordan-moldow-box "Turning Pain Into Gain: A Puppet Unit Testing Story")
 
 Puppet is integral to Box's infrastructure, serving many purposes. Use of Puppet grew organically, resulting in a large monolith of fragile spaghetti code. When we needed CI, this code was in an untestable state. Out of the box, rspec-puppet didn't work. Rather than continuing to rely only on manual testing or rewriting our code into proper modules, roles, and profiles, we made the unit testing system work with our spaghetti code. Our open-source rspec-puppet extensions enabled us to add coverage for our monolith, and can help others achieve the same. This session covers Box's journey to a fully-featured Puppet CI. We discuss the importance of unit testing, show it's possible to improve testing practices, present solutions to roadblocks we encountered, and share workflows we created.
@@ -91,7 +91,7 @@ Puppet is integral to Box's infrastructure, serving many purposes. Use of Puppet
 
 - [Recording](https://www.youtube.com/watch?v=5JT2em4YYIo "Recording")
 
-## Miscellaneous Classes / Meetups / Code Walkthroughs / Tutorials
+## Miscellaneous
 
 ### Python 3 Async Tutorial
 - [Python 3 Async Tutorial](https://github.com/jmoldow/jmoldow-python3-async-tutorial "Python 3 Async Tutorial")
@@ -104,8 +104,8 @@ We'll start from simple generators, moving to yield from syntax, and then to cor
 
 Presented at public and internal Python meetups / code walkthroughs.
 
-### Intro Programming (in Python)
-- [Intro Programming (in Python)](https://github.com/jmoldow/python-splash-lesson "Intro Programming (in Python)")
+### Intro Programming in Python
+- [Intro Programming in Python](https://github.com/jmoldow/python-splash-lesson "Intro Programming in Python")
 
 A two-hour, introductory programming course, for beginners in high school or middle school, using the Python programming language.
 
