@@ -23,6 +23,12 @@ Talks I've presented at conferences, meetups, etc.
 ### Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes
 - [Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes](https://web.archive.org/web/20210508001359/https://perconaliveonline.sched.com/event/io6K/deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes "Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes")
 
+- [Slides](https://app.box.com/s/p3e03oqiwv1q3mtclm34mpcb6tqub75j "Slides")
+
+- [Vitess operator examples](https://github.com/jmoldow/vitess-operator-examples "Vitess operator examples")
+
+- [Recording](https://app.box.com/s/ux2i075yef3n4psm0ycm38kmqcfz8l0i "Recording")
+
 I show, with a live demo/tutorial, that deploying and evaluating a Vitess ("A database clustering system for horizontal scaling of MySQL" - https://vitess.io) sandbox cluster, into a public cloud environment, can be done super easily.
 
 With the remaining demo time, I demonstrate other Vitess operations, Vitess fundamentals, and Kubernetes fundamentals.
@@ -31,14 +37,12 @@ Even with the best possible documentation (and the Vitess documentation is quite
 
 For this demo, I use the excellent open-source Vitess-operator for Kubernetes, provided by PlanetScale. Even if you aren't considering deploying Vitess on Kubernetes in production, I still highly recommend it for sandbox use. Deploying an arbitrary number of components is super trivial with the operator, and everything auto-wires automatically. No need to delay your evaluation by needing to manually bootstrap a cluster one node at a time, or write your own deployment tools.
 
-- [Slides](https://app.box.com/s/p3e03oqiwv1q3mtclm34mpcb6tqub75j "Slides")
-
-- [Vitess operator examples](https://github.com/jmoldow/vitess-operator-examples "Vitess operator examples")
-
-- [Recording](https://app.box.com/s/ux2i075yef3n4psm0ycm38kmqcfz8l0i "Recording")
-
 ### The Last Mile - Delivering the Last 10 Percent of a 4-year Migration
 - [The Last Mile - Delivering the Last 10% of a 4-year Migration](https://web.archive.org/web/20210508001407/https://perconaliveonline.sched.com/event/io6f/the-last-mile-delivering-the-last-10-of-a-four-year-migration "The Last Mile - Delivering the Last 10% of a 4-year Migration")
+
+- [Slides](https://app.box.com/s/453j26vrbjbqpffr4spd27prfeq3y2m7 "Slides")
+
+- [Recording](https://app.box.com/s/ma2ozl7paaj4px6xfvapy3gaa9cbz3gj "Recording")
 
 In complex projects, the last 10% of the project is often the most difficult part. In this talk, I will share a case study of Box's 4-year effort to get rid of our legacy mapping DB and move the last piece of our legacy monolith MySQL traffic to our data access layer. This talk will cover how to manage technical risk and optimize team execution in a technically complex and operationally distributed environment. This talk will share reflections on useful tactics that led to the successful completion of this four-year migration project for others to learn from and leverage.
 
@@ -50,12 +54,12 @@ In this session, we will have a candid discussion on the technical and organizat
 
 Participants will leave with a few ideas that they should be able to try out within their own teams. Additionally, there are some deeper ideas about team leadership and effectiveness that I hope participants will be able to reflect on going forwards.
 
-- [Slides](https://app.box.com/s/453j26vrbjbqpffr4spd27prfeq3y2m7 "Slides")
-
-- [Recording](https://app.box.com/s/ma2ozl7paaj4px6xfvapy3gaa9cbz3gj "Recording")
-
 ### Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations
 - [Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations](https://web.archive.org/web/20210508001423/https://perconaliveonline.sched.com/event/io8Y/introducing-transit-nodes-a-sparse-data-structure-for-recording-sharding-denormalizations "Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations")
+
+- [Slides](https://app.box.com/s/s5vegq0b7yh6va8op85ftqmt12lqdklt "Slides")
+
+- [Recording](https://www.youtube.com/watch?v=h9HwP3jJYuY "Recording")
 
 At Box, we have a fairly uncommon combination of business requirements that, when taken together, means that our relational data access layer must implement cross-shard move operations and orchestration. These moves can be large, and often need to be split across multiple asynchronous transactions. In the middle of this asynchronous orchestration, objects that would ordinarily live on the same shard, may be split across two shards. Our mapping database must faithfully record where each object currently resides, as well as the intended destination.
 
@@ -73,10 +77,6 @@ The transit node concept was carefully designed with a number of invariants, whi
 
 We will briefly cover the context of sharding at Box, to provide the motivation for the transit node concept. The rest of the talk will present the semantics, invariants, and behaviors of transit nodes, and some results from our deployment. My hope is that the concept can be more broadly useful beyond what we originally designed it for.
 
-- [Slides](https://app.box.com/s/s5vegq0b7yh6va8op85ftqmt12lqdklt "Slides")
-
-- [Recording](https://www.youtube.com/watch?v=h9HwP3jJYuY "Recording")
-
 ## PuppetConf - October 2016
 - [PuppetConf - October 2016](https://web.archive.org/web/20200929171915/https://puppetconf2016.sched.com/ "PuppetConf - October 2016")
 
@@ -85,11 +85,11 @@ We will briefly cover the context of sharding at Box, to provide the motivation 
 ### Turning Pain Into Gain - A Puppet Unit Testing Story
 - [Turning Pain Into Gain: A Puppet Unit Testing Story](https://web.archive.org/web/20201021080349/https://puppetconf2016.sched.com/event/6fjL/turning-pain-into-gain-a-unit-testing-story-nadeem-ahmad-jordan-moldow-box "Turning Pain Into Gain: A Puppet Unit Testing Story")
 
-Puppet is integral to Box's infrastructure, serving many purposes. Use of Puppet grew organically, resulting in a large monolith of fragile spaghetti code. When we needed CI, this code was in an untestable state. Out of the box, rspec-puppet didn't work. Rather than continuing to rely only on manual testing or rewriting our code into proper modules, roles, and profiles, we made the unit testing system work with our spaghetti code. Our open-source rspec-puppet extensions enabled us to add coverage for our monolith, and can help others achieve the same. This session covers Box's journey to a fully-featured Puppet CI. We discuss the importance of unit testing, show it's possible to improve testing practices, present solutions to roadblocks we encountered, and share workflows we created.
-
 - [Slides](https://app.box.com/s/vu4cyf0s1eoqg1s9xd1se89tx71zcnoy "Slides")
 
 - [Recording](https://www.youtube.com/watch?v=5JT2em4YYIo "Recording")
+
+Puppet is integral to Box's infrastructure, serving many purposes. Use of Puppet grew organically, resulting in a large monolith of fragile spaghetti code. When we needed CI, this code was in an untestable state. Out of the box, rspec-puppet didn't work. Rather than continuing to rely only on manual testing or rewriting our code into proper modules, roles, and profiles, we made the unit testing system work with our spaghetti code. Our open-source rspec-puppet extensions enabled us to add coverage for our monolith, and can help others achieve the same. This session covers Box's journey to a fully-featured Puppet CI. We discuss the importance of unit testing, show it's possible to improve testing practices, present solutions to roadblocks we encountered, and share workflows we created.
 
 ## Miscellaneous
 
