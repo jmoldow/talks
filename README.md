@@ -61,6 +61,8 @@ Participants will leave with a few ideas that they should be able to try out wit
 
 - [Recording](https://www.youtube.com/watch?v=h9HwP3jJYuY "Recording")
 
+- [Percona Live 2021 Resources](https://web.archive.org/web/20210605213156/https://www.percona.com/resources/videos/introducing-transit-nodes-sparse-data-structure-recording-denormalizations "Percona Live 2021 Resources")
+
 At Box, we have a fairly uncommon combination of business requirements that, when taken together, means that our relational data access layer must implement cross-shard move operations and orchestration. These moves can be large, and often need to be split across multiple asynchronous transactions. In the middle of this asynchronous orchestration, objects that would ordinarily live on the same shard, may be split across two shards. Our mapping database must faithfully record where each object currently resides, as well as the intended destination.
 
 Viewed more generally, we have a system described by the following:
