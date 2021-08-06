@@ -27,7 +27,7 @@ Talks I've presented at conferences, meetups, etc.
 
 - [Vitess operator examples](https://github.com/jmoldow/vitess-operator-examples "Vitess operator examples")
 
-- [Recording](https://app.box.com/s/ux2i075yef3n4psm0ycm38kmqcfz8l0i "Recording")
+- [Recording](https://www.youtube.com/watch?v=jIGZDOX2RZU "Recording")
 
 I show, with a live demo/tutorial, that deploying and evaluating a Vitess ("A database clustering system for horizontal scaling of MySQL" - https://vitess.io) sandbox cluster, into a public cloud environment, can be done super easily.
 
@@ -42,7 +42,7 @@ For this demo, I use the excellent open-source Vitess-operator for Kubernetes, p
 
 - [Slides](https://app.box.com/s/453j26vrbjbqpffr4spd27prfeq3y2m7 "Slides")
 
-- [Recording](https://app.box.com/s/ma2ozl7paaj4px6xfvapy3gaa9cbz3gj "Recording")
+- [Recording](https://www.youtube.com/watch?v=qjFqxTLYboE "Recording")
 
 In complex projects, the last 10% of the project is often the most difficult part. In this talk, I will share a case study of Box's 4-year effort to get rid of our legacy mapping DB and move the last piece of our legacy monolith MySQL traffic to our data access layer. This talk will cover how to manage technical risk and optimize team execution in a technically complex and operationally distributed environment. This talk will share reflections on useful tactics that led to the successful completion of this four-year migration project for others to learn from and leverage.
 
