@@ -91,6 +91,8 @@ We will briefly cover the context of sharding at Box, to provide the motivation 
 
 - [Recording](https://www.youtube.com/watch?v=5JT2em4YYIo "Recording")
 
+- [Code](https://github.com/jmoldow/box_spec_helper "Code")
+
 Puppet is integral to Box's infrastructure, serving many purposes. Use of Puppet grew organically, resulting in a large monolith of fragile spaghetti code. When we needed CI, this code was in an untestable state. Out of the box, rspec-puppet didn't work. Rather than continuing to rely only on manual testing or rewriting our code into proper modules, roles, and profiles, we made the unit testing system work with our spaghetti code. Our open-source rspec-puppet extensions enabled us to add coverage for our monolith, and can help others achieve the same. This session covers Box's journey to a fully-featured Puppet CI. We discuss the importance of unit testing, show it's possible to improve testing practices, present solutions to roadblocks we encountered, and share workflows we created.
 
 ## Miscellaneous
