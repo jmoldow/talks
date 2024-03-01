@@ -9,7 +9,7 @@ Talks I've presented at conferences, meetups, etc.
   * [Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations](#introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations)
   * [Turning Pain Into Gain - A Puppet Unit Testing Story](#turning-pain-into-gain---a-puppet-unit-testing-story)
 - [Conferences](#conferences)
-  * [DeveloperWeek Global: Enterprise - December 2021](#developerweek-global-enterprise---december-2021)
+  * [DeveloperWeek Global: Enterprise - December 2021](#developerweek-global--enterprise---december-2021)
   * [Percona Live Online - May 2021](#percona-live-online---may-2021)
   * [PuppetConf - October 2016](#puppetconf---october-2016)
 - [Miscellaneous](#miscellaneous)
@@ -22,7 +22,7 @@ Talks I've presented at conferences, meetups, etc.
 
 ### The Last Mile - Delivering the Last 10 Percent of a 4-year Migration
 Presented at
-- [DeveloperWeek Global: Enterprise - December 2021](#developerweek-global-enterprise---december-2021)
+- [DeveloperWeek Global: Enterprise - December 2021](#developerweek-global--enterprise---december-2021)
   * [[Description]](https://web.archive.org/web/20220810081639/https://embed.emamo.com/event/developerweek-global-enterprise-2021/s/the-last-mile-delivering-the-last-10-of-a-4-year-migration-WK4zqo "The Last Mile: Delivering the Last 10% Of a 4-Year Migration") 
     [[Slides]](https://app.box.com/s/nntx8biljij0ts1zoczw31pjzre2sd0e "Slides")
 - [Percona Live Online - May 2021](#percona-live-online---may-2021)
