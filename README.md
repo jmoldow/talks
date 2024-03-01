@@ -55,15 +55,14 @@ Talks
 ## Talks
 
 ### Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes
-- [Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes](https://web.archive.org/web/20210508001359/https://perconaliveonline.sched.com/event/io6K/deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes "Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes")
 
-- [Presented at Percona Live Online - May 2021](#percona-live-online---may-2021)
+Presented at
+- [Percona Live Online - May 2021](#percona-live-online---may-2021)
 
-- [Slides](https://app.box.com/s/p3e03oqiwv1q3mtclm34mpcb6tqub75j "Slides")
-
-- [Vitess operator examples](https://github.com/jmoldow/vitess-operator-examples "Vitess operator examples")
-
-- [Recording](https://www.youtube.com/watch?v=Bllc-u_cCGA "Recording")
+[[Description]](https://web.archive.org/web/20210508001359/https://perconaliveonline.sched.com/event/io6K/deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes "Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes") 
+[[Slides]](https://app.box.com/s/p3e03oqiwv1q3mtclm34mpcb6tqub75j "Slides") 
+[[Vitess operator examples]](https://github.com/jmoldow/vitess-operator-examples "Vitess operator examples") 
+[[Recording]](https://www.youtube.com/watch?v=Bllc-u_cCGA "Recording")
 
 I show, with a live demo/tutorial, that deploying and evaluating a Vitess ("A database clustering system for horizontal scaling of MySQL" - https://vitess.io) sandbox cluster, into a public cloud environment, can be done super easily.
 
