@@ -20,23 +20,6 @@ Talks I've presented at conferences, meetups, etc.
 
 ## Talks
 
-### Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes
-
-Presented at: [Percona Live Online - May 2021](#percona-live-online---may-2021)
-
-[[Description]](https://web.archive.org/web/20210508001359/https://perconaliveonline.sched.com/event/io6K/deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes "Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes") 
-[[Slides]](https://app.box.com/s/p3e03oqiwv1q3mtclm34mpcb6tqub75j "Slides") 
-[[Vitess operator examples]](https://github.com/jmoldow/vitess-operator-examples "Vitess operator examples") 
-[[Recording]](https://www.youtube.com/watch?v=Bllc-u_cCGA "Recording")
-
-I show, with a live demo/tutorial, that deploying and evaluating a Vitess ("A database clustering system for horizontal scaling of MySQL" - https://vitess.io) sandbox cluster, into a public cloud environment, can be done super easily.
-
-With the remaining demo time, I demonstrate other Vitess operations, Vitess fundamentals, and Kubernetes fundamentals.
-
-Even with the best possible documentation (and the Vitess documentation is quite good!), getting a fully working cluster, experimenting with it, and getting everything configured the way you want can involve a bunch of trial and error. I hope that my demo can help you bypass some of the more boring trial-and-error, and get running more quickly with your Vitess evaluation.
-
-For this demo, I use the excellent open-source Vitess-operator for Kubernetes, provided by PlanetScale. Even if you aren't considering deploying Vitess on Kubernetes in production, I still highly recommend it for sandbox use. Deploying an arbitrary number of components is super trivial with the operator, and everything auto-wires automatically. No need to delay your evaluation by needing to manually bootstrap a cluster one node at a time, or write your own deployment tools.
-
 ### The Last Mile - Delivering the Last 10 Percent of a 4-year Migration
 Presented at
 - [DeveloperWeek Global: Enterprise - December 2021](#developerweek-global-enterprise---december-2021)
@@ -56,6 +39,23 @@ As the project progressed, I found that successful execution depended not only o
 In this session, we will have a candid discussion on the technical and organizational strategies that I believe were important to our success, or that were promising enough to warrant more experimentation in the future.
 
 Participants will leave with a few ideas that they should be able to try out within their own teams. Additionally, there are some deeper ideas about team leadership and effectiveness that I hope participants will be able to reflect on going forwards.
+
+### Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes
+
+Presented at: [Percona Live Online - May 2021](#percona-live-online---may-2021)
+
+[[Description]](https://web.archive.org/web/20210508001359/https://perconaliveonline.sched.com/event/io6K/deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes "Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes") 
+[[Slides]](https://app.box.com/s/p3e03oqiwv1q3mtclm34mpcb6tqub75j "Slides") 
+[[Vitess operator examples]](https://github.com/jmoldow/vitess-operator-examples "Vitess operator examples") 
+[[Recording]](https://www.youtube.com/watch?v=Bllc-u_cCGA "Recording")
+
+I show, with a live demo/tutorial, that deploying and evaluating a Vitess ("A database clustering system for horizontal scaling of MySQL" - https://vitess.io) sandbox cluster, into a public cloud environment, can be done super easily.
+
+With the remaining demo time, I demonstrate other Vitess operations, Vitess fundamentals, and Kubernetes fundamentals.
+
+Even with the best possible documentation (and the Vitess documentation is quite good!), getting a fully working cluster, experimenting with it, and getting everything configured the way you want can involve a bunch of trial and error. I hope that my demo can help you bypass some of the more boring trial-and-error, and get running more quickly with your Vitess evaluation.
+
+For this demo, I use the excellent open-source Vitess-operator for Kubernetes, provided by PlanetScale. Even if you aren't considering deploying Vitess on Kubernetes in production, I still highly recommend it for sandbox use. Deploying an arbitrary number of components is super trivial with the operator, and everything auto-wires automatically. No need to delay your evaluation by needing to manually bootstrap a cluster one node at a time, or write your own deployment tools.
 
 ### Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations
 Presented at: [Percona Live Online - May 2021](#percona-live-online---may-2021)
@@ -93,7 +93,7 @@ Puppet is integral to Box's infrastructure, serving many purposes. Use of Puppet
 
 ## Conferences
 
-### DeveloperWeek Global Enterprise - December 2021
+### DeveloperWeek Global: Enterprise - December 2021
 Talk: [The Last Mile - Delivering the Last 10 Percent of a 4-year Migration](#the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration)
 
 [[Conference]](https://web.archive.org/web/20211028080259/https://www.developerweek.com/global/conference/enterprise/ "DeveloperWeek Global: Enterprise - Virtual Conference & Expo") 
