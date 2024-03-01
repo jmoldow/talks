@@ -21,11 +21,10 @@ Talks I've presented at conferences, meetups, etc.
 ## Conferences
 
 ### DeveloperWeek Global Enterprise - December 2021
-- [DeveloperWeek Global Enterprise - December 2021](https://web.archive.org/web/20211028080259/https://www.developerweek.com/global/conference/enterprise/)
+[[Conference]](https://web.archive.org/web/20211028080259/https://www.developerweek.com/global/conference/enterprise/) 
+[[Speaker Profile - Jordan Moldow]](https://web.archive.org/web/20220810075850/https://embed.emamo.com/event/developerweek-global-enterprise-2021/r/speaker/jordan-moldow)
 
-> DeveloperWeek Global: Enterprise Conference invites over 3,000 enterprise dev professionals to converge for a 2-day virtual conference & expo, featuring technology innovations and trends that corporations need to know about. Topics will include: DevSecOps, Organizing Dev Teams, DevTech Trends, Microservices, Containers, Kubernetes, and more.
-
-- [Speaker Profile - Jordan Moldow](https://web.archive.org/web/20220810075850/https://embed.emamo.com/event/developerweek-global-enterprise-2021/r/speaker/jordan-moldow)
+> DeveloperWeek Global: Enterprise Conference invites over 3,000 enterprise dev professionals to converge for a 2-day virtual conference & expo, featuring technology innovations and trends that corporations need to know about. Topics will include: DevSecOps, Organizing Dev Teams, DevTech Trends, Microservices, Containers, Kubernetes, and more. 
 
 - Talks
   * [The Last Mile - Delivering the Last 10 Percent of a 4-year Migration](#the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration)
