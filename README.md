@@ -26,26 +26,24 @@ Talks I've presented at conferences, meetups, etc.
 
 > DeveloperWeek Global: Enterprise Conference invites over 3,000 enterprise dev professionals to converge for a 2-day virtual conference & expo, featuring technology innovations and trends that corporations need to know about. Topics will include: DevSecOps, Organizing Dev Teams, DevTech Trends, Microservices, Containers, Kubernetes, and more. 
 
-- Talks
-  * [The Last Mile - Delivering the Last 10 Percent of a 4-year Migration](#the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration)
+Talks
+- [The Last Mile - Delivering the Last 10 Percent of a 4-year Migration](#the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration)
 
 ### Percona Live Online - May 2021
-- [Percona Live Online - May 2021](https://web.archive.org/web/20211010014202/https://www.percona.com/conferences/percona-live-online-2021 "Percona Live Online - May 2021")
+[[Conference]](https://web.archive.org/web/20211010014202/https://www.percona.com/conferences/percona-live-online-2021 "Percona Live Online - May 2021") 
+[[Speaker Profile - Jordan Moldow]](https://web.archive.org/web/20210508001339/https://perconaliveonline.sched.com/speaker/jmoldow "Speaker Profile - Jordan Moldow")
 
-- [Speaker Profile - Jordan Moldow](https://web.archive.org/web/20210508001339/https://perconaliveonline.sched.com/speaker/jmoldow "Speaker Profile - Jordan Moldow")
-
-- Talks
-  * [Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes](#deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes)
-  * [The Last Mile - Delivering the Last 10 Percent of a 4-year Migration](#the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration)
-  * [Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations](#introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations)
+Talks
+- [Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes](#deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes)
+- [The Last Mile - Delivering the Last 10 Percent of a 4-year Migration](#the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration)
+- [Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations](#introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations)
 
 ### PuppetConf - October 2016
-- [PuppetConf - October 2016](https://web.archive.org/web/20200929171915/https://puppetconf2016.sched.com/ "PuppetConf - October 2016")
+[[Conference]](https://web.archive.org/web/20200929171915/https://puppetconf2016.sched.com/ "PuppetConf - October 2016") 
+[[Speaker Profile - Jordan Moldow]](https://web.archive.org/web/20210228060544/https://puppetconf2016.sched.com/speaker/jordan_moldow.1vbsm1tl "Speaker Profile - Jordan Moldow")
 
-- [Speaker Profile - Jordan Moldow](https://web.archive.org/web/20210228060544/https://puppetconf2016.sched.com/speaker/jordan_moldow.1vbsm1tl "Speaker Profile - Jordan Moldow")
-
-- Talks
-  * [Turning Pain Into Gain - A Puppet Unit Testing Story](#turning-pain-into-gain---a-puppet-unit-testing-story)
+Talks
+- [Turning Pain Into Gain - A Puppet Unit Testing Story](#turning-pain-into-gain---a-puppet-unit-testing-story)
 
 ## Talks
 
