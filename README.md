@@ -33,6 +33,12 @@ Talks
 [[Conference]](https://web.archive.org/web/20211010014202/https://www.percona.com/conferences/percona-live-online-2021 "Percona Live Online - May 2021") 
 [[Speaker Profile - Jordan Moldow]](https://web.archive.org/web/20210508001339/https://perconaliveonline.sched.com/speaker/jmoldow "Speaker Profile - Jordan Moldow")
 
+<!---
+
+[comment]: # (https://www.facebook.com/Percona/videos/jordan-moldow-from-box-chats-with-perconas-matt-yonkovit-about-his-upcoming-talk/223557959542624/)
+
+--->
+
 > The biggest open source database conference in the world. 196 speakers, 206 sessions and thousands of attendees.
 
 Talks
