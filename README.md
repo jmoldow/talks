@@ -22,8 +22,7 @@ Talks I've presented at conferences, meetups, etc.
 
 ### Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes
 
-Presented at
-- [Percona Live Online - May 2021](#percona-live-online---may-2021)
+Presented at: [Percona Live Online - May 2021](#percona-live-online---may-2021)
 
 [[Description]](https://web.archive.org/web/20210508001359/https://perconaliveonline.sched.com/event/io6K/deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes "Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes") 
 [[Slides]](https://app.box.com/s/p3e03oqiwv1q3mtclm34mpcb6tqub75j "Slides") 
@@ -59,8 +58,7 @@ In this session, we will have a candid discussion on the technical and organizat
 Participants will leave with a few ideas that they should be able to try out within their own teams. Additionally, there are some deeper ideas about team leadership and effectiveness that I hope participants will be able to reflect on going forwards.
 
 ### Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations
-Presented at
-- [Percona Live Online - May 2021](#percona-live-online---may-2021)
+Presented at: [Percona Live Online - May 2021](#percona-live-online---may-2021)
 
 [[Description]](https://web.archive.org/web/20210508001423/https://perconaliveonline.sched.com/event/io8Y/introducing-transit-nodes-a-sparse-data-structure-for-recording-sharding-denormalizations "Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations") 
 [[Slides]](https://app.box.com/s/s5vegq0b7yh6va8op85ftqmt12lqdklt "Slides") 
@@ -84,8 +82,7 @@ The transit node concept was carefully designed with a number of invariants, whi
 We will briefly cover the context of sharding at Box, to provide the motivation for the transit node concept. The rest of the talk will present the semantics, invariants, and behaviors of transit nodes, and some results from our deployment. My hope is that the concept can be more broadly useful beyond what we originally designed it for.
 
 ### Turning Pain Into Gain - A Puppet Unit Testing Story
-Presented at
-- [PuppetConf - October 2016](#puppetconf---october-2016)
+Presented at: [PuppetConf - October 2016](#puppetconf---october-2016)
 
 [[Description]](https://web.archive.org/web/20201021080349/https://puppetconf2016.sched.com/event/6fjL/turning-pain-into-gain-a-unit-testing-story-nadeem-ahmad-jordan-moldow-box "Turning Pain Into Gain: A Puppet Unit Testing Story") 
 [[Slides]](https://app.box.com/s/vu4cyf0s1eoqg1s9xd1se89tx71zcnoy "Slides") 
