@@ -3,62 +3,20 @@ Talks I've presented at conferences, meetups, etc.
 
 ##### Table of Contents
 
+- [Talks](#talks)
+  * [The Last Mile - Delivering the Last 10 Percent of a 4-year Migration](#the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration)
+  * [Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes](#deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes)
+  * [Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations](#introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations)
+  * [Turning Pain Into Gain - A Puppet Unit Testing Story](#turning-pain-into-gain---a-puppet-unit-testing-story)
 - [Conferences](#conferences)
   * [DeveloperWeek Global: Enterprise - December 2021](#developerweek-global-enterprise---december-2021)
   * [Percona Live Online - May 2021](#percona-live-online---may-2021)
   * [PuppetConf - October 2016](#puppetconf---october-2016)
-- [Talks](#talks)
-  * [Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes](#deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes)
-  * [The Last Mile - Delivering the Last 10 Percent of a 4-year Migration](#the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration)
-  * [Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations](#introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations)
-  * [Turning Pain Into Gain - A Puppet Unit Testing Story](#turning-pain-into-gain---a-puppet-unit-testing-story)
 - [Miscellaneous](#miscellaneous)
   * [Python 3 Async Tutorial](#python-3-async-tutorial)
   * [Intro Programming in Python](#intro-programming-in-python)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-## Conferences
-
-### DeveloperWeek Global Enterprise - December 2021
-[[Conference]](https://web.archive.org/web/20211028080259/https://www.developerweek.com/global/conference/enterprise/ "DeveloperWeek Global: Enterprise - Virtual Conference & Expo") 
-[[Speaker Profile - Jordan Moldow]](https://web.archive.org/web/20220810075850/https://embed.emamo.com/event/developerweek-global-enterprise-2021/r/speaker/jordan-moldow "Speaker Profile - Jordan Moldow")
-
-> DeveloperWeek Global: Enterprise Conference invites over 3,000 enterprise dev professionals to converge for a 2-day virtual conference & expo, featuring technology innovations and trends that corporations need to know about. Topics will include: DevSecOps, Organizing Dev Teams, DevTech Trends, Microservices, Containers, Kubernetes, and more. 
-
-Talks
-- [The Last Mile - Delivering the Last 10 Percent of a 4-year Migration](#the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration)
-
-### Percona Live Online - May 2021
-[[Conference]](https://web.archive.org/web/20211010014202/https://www.percona.com/conferences/percona-live-online-2021 "Percona Live Online - May 2021") 
-[[Speaker Profile - Jordan Moldow]](https://web.archive.org/web/20210508001339/https://perconaliveonline.sched.com/speaker/jmoldow "Speaker Profile - Jordan Moldow")
-
-<!---
-
-[comment]: # (Keep this link for my own reference, but don't render it.)
-
-[comment]: # (https://www.facebook.com/Percona/videos/jordan-moldow-from-box-chats-with-perconas-matt-yonkovit-about-his-upcoming-talk/223557959542624/)
-
---->
-
-> The biggest open source database conference in the world. 196 speakers, 206 sessions and thousands of attendees.
-
-Talks
-- [Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes](#deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes)
-- [The Last Mile - Delivering the Last 10 Percent of a 4-year Migration](#the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration)
-- [Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations](#introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations)
-
-### PuppetConf - October 2016
-[[Conference]](https://web.archive.org/web/20200929171915/https://puppetconf2016.sched.com/ "PuppetConf - October 2016") 
-[[Speaker Profile - Jordan Moldow]](https://web.archive.org/web/20210228060544/https://puppetconf2016.sched.com/speaker/jordan_moldow.1vbsm1tl "Speaker Profile - Jordan Moldow") 
-[[Conference Announcement Press Release]](https://web.archive.org/web/20240301022301/https://www.globenewswire.com/en/news-release/2016/03/10/1229926/0/en/PuppetConf-2016-Call-for-Papers-Is-Now-Open.html "Conference Announcement Press Release")
-
-> The IT Automation Event of the Year to Feature the Brightest Minds in Tech Discussing Technology, Culture and Organizational Transformation
->
-> PuppetConf is the can't-miss IT automation event of the year. PuppetConf in sunny San Diego will feature five days of training, more than 100 speakers, a Contributor Summit, certification testing, a Partner Summit and more.
-
-Talks
-- [Turning Pain Into Gain - A Puppet Unit Testing Story](#turning-pain-into-gain---a-puppet-unit-testing-story)
 
 ## Talks
 
@@ -135,6 +93,48 @@ Presented at
 [[Code]](https://github.com/jmoldow/box_spec_helper "Code")
 
 Puppet is integral to Box's infrastructure, serving many purposes. Use of Puppet grew organically, resulting in a large monolith of fragile spaghetti code. When we needed CI, this code was in an untestable state. Out of the box, rspec-puppet didn't work. Rather than continuing to rely only on manual testing or rewriting our code into proper modules, roles, and profiles, we made the unit testing system work with our spaghetti code. Our open-source rspec-puppet extensions enabled us to add coverage for our monolith, and can help others achieve the same. This session covers Box's journey to a fully-featured Puppet CI. We discuss the importance of unit testing, show it's possible to improve testing practices, present solutions to roadblocks we encountered, and share workflows we created.
+
+## Conferences
+
+### DeveloperWeek Global Enterprise - December 2021
+[[Conference]](https://web.archive.org/web/20211028080259/https://www.developerweek.com/global/conference/enterprise/ "DeveloperWeek Global: Enterprise - Virtual Conference & Expo") 
+[[Speaker Profile - Jordan Moldow]](https://web.archive.org/web/20220810075850/https://embed.emamo.com/event/developerweek-global-enterprise-2021/r/speaker/jordan-moldow "Speaker Profile - Jordan Moldow")
+
+> DeveloperWeek Global: Enterprise Conference invites over 3,000 enterprise dev professionals to converge for a 2-day virtual conference & expo, featuring technology innovations and trends that corporations need to know about. Topics will include: DevSecOps, Organizing Dev Teams, DevTech Trends, Microservices, Containers, Kubernetes, and more. 
+
+Talks
+- [The Last Mile - Delivering the Last 10 Percent of a 4-year Migration](#the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration)
+
+### Percona Live Online - May 2021
+[[Conference]](https://web.archive.org/web/20211010014202/https://www.percona.com/conferences/percona-live-online-2021 "Percona Live Online - May 2021") 
+[[Speaker Profile - Jordan Moldow]](https://web.archive.org/web/20210508001339/https://perconaliveonline.sched.com/speaker/jmoldow "Speaker Profile - Jordan Moldow")
+
+<!---
+
+[comment]: # (Keep this link for my own reference, but don't render it.)
+
+[comment]: # (https://www.facebook.com/Percona/videos/jordan-moldow-from-box-chats-with-perconas-matt-yonkovit-about-his-upcoming-talk/223557959542624/)
+
+--->
+
+> The biggest open source database conference in the world. 196 speakers, 206 sessions and thousands of attendees.
+
+Talks
+- [Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes](#deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes)
+- [The Last Mile - Delivering the Last 10 Percent of a 4-year Migration](#the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration)
+- [Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations](#introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations)
+
+### PuppetConf - October 2016
+[[Conference]](https://web.archive.org/web/20200929171915/https://puppetconf2016.sched.com/ "PuppetConf - October 2016") 
+[[Speaker Profile - Jordan Moldow]](https://web.archive.org/web/20210228060544/https://puppetconf2016.sched.com/speaker/jordan_moldow.1vbsm1tl "Speaker Profile - Jordan Moldow") 
+[[Conference Announcement Press Release]](https://web.archive.org/web/20240301022301/https://www.globenewswire.com/en/news-release/2016/03/10/1229926/0/en/PuppetConf-2016-Call-for-Papers-Is-Now-Open.html "Conference Announcement Press Release")
+
+> The IT Automation Event of the Year to Feature the Brightest Minds in Tech Discussing Technology, Culture and Organizational Transformation
+>
+> PuppetConf is the can't-miss IT automation event of the year. PuppetConf in sunny San Diego will feature five days of training, more than 100 speakers, a Contributor Summit, certification testing, a Partner Summit and more.
+
+Talks
+- [Turning Pain Into Gain - A Puppet Unit Testing Story](#turning-pain-into-gain---a-puppet-unit-testing-story)
 
 ## Miscellaneous
 
