@@ -21,8 +21,8 @@ Talks I've presented at conferences, meetups, etc.
 ## Conferences
 
 ### DeveloperWeek Global Enterprise - December 2021
-[[Conference]](https://web.archive.org/web/20211028080259/https://www.developerweek.com/global/conference/enterprise/) 
-[[Speaker Profile - Jordan Moldow]](https://web.archive.org/web/20220810075850/https://embed.emamo.com/event/developerweek-global-enterprise-2021/r/speaker/jordan-moldow)
+[[Conference]](https://web.archive.org/web/20211028080259/https://www.developerweek.com/global/conference/enterprise/ "DeveloperWeek Global: Enterprise - Virtual Conference & Expo") 
+[[Speaker Profile - Jordan Moldow]](https://web.archive.org/web/20220810075850/https://embed.emamo.com/event/developerweek-global-enterprise-2021/r/speaker/jordan-moldow "Speaker Profile - Jordan Moldow")
 
 > DeveloperWeek Global: Enterprise Conference invites over 3,000 enterprise dev professionals to converge for a 2-day virtual conference & expo, featuring technology innovations and trends that corporations need to know about. Topics will include: DevSecOps, Organizing Dev Teams, DevTech Trends, Microservices, Containers, Kubernetes, and more. 
 
@@ -43,7 +43,7 @@ Talks
 ### PuppetConf - October 2016
 [[Conference]](https://web.archive.org/web/20200929171915/https://puppetconf2016.sched.com/ "PuppetConf - October 2016") 
 [[Speaker Profile - Jordan Moldow]](https://web.archive.org/web/20210228060544/https://puppetconf2016.sched.com/speaker/jordan_moldow.1vbsm1tl "Speaker Profile - Jordan Moldow") 
-[[Conference Announcement Press Release]](https://web.archive.org/web/20240301022301/https://www.globenewswire.com/en/news-release/2016/03/10/1229926/0/en/PuppetConf-2016-Call-for-Papers-Is-Now-Open.html)
+[[Conference Announcement Press Release]](https://web.archive.org/web/20240301022301/https://www.globenewswire.com/en/news-release/2016/03/10/1229926/0/en/PuppetConf-2016-Call-for-Papers-Is-Now-Open.html "Conference Announcement Press Release")
 
 > The IT Automation Event of the Year to Feature the Brightest Minds in Tech Discussing Technology, Culture and Organizational Transformation
 >
@@ -73,15 +73,14 @@ Even with the best possible documentation (and the Vitess documentation is quite
 For this demo, I use the excellent open-source Vitess-operator for Kubernetes, provided by PlanetScale. Even if you aren't considering deploying Vitess on Kubernetes in production, I still highly recommend it for sandbox use. Deploying an arbitrary number of components is super trivial with the operator, and everything auto-wires automatically. No need to delay your evaluation by needing to manually bootstrap a cluster one node at a time, or write your own deployment tools.
 
 ### The Last Mile - Delivering the Last 10 Percent of a 4-year Migration
-- [The Last Mile - Delivering the Last 10% of a 4-year Migration](https://web.archive.org/web/20210508001407/https://perconaliveonline.sched.com/event/io6f/the-last-mile-delivering-the-last-10-of-a-four-year-migration "The Last Mile - Delivering the Last 10% of a 4-year Migration")
-
-- [Presented at DeveloperWeek Global: Enterprise - December 2021](#developerweek-global-enterprise---december-2021)
-
-- [Presented at Percona Live Online - May 2021](#percona-live-online---may-2021)
-
-- [Slides](https://app.box.com/s/453j26vrbjbqpffr4spd27prfeq3y2m7 "Slides")
-
-- [Recording](https://www.youtube.com/watch?v=mYXy5q8rR1Y "Recording")
+Presented at
+- [DeveloperWeek Global: Enterprise - December 2021](#developerweek-global-enterprise---december-2021)
+  * [[Description]](https://web.archive.org/web/20220810081639/https://embed.emamo.com/event/developerweek-global-enterprise-2021/s/the-last-mile-delivering-the-last-10-of-a-4-year-migration-WK4zqo "The Last Mile: Delivering the Last 10% Of a 4-Year Migration") 
+    [[Slides]](https://app.box.com/s/nntx8biljij0ts1zoczw31pjzre2sd0e "Slides")
+- [Percona Live Online - May 2021](#percona-live-online---may-2021)
+  * [[Description]](https://web.archive.org/web/20210508001407/https://perconaliveonline.sched.com/event/io6f/the-last-mile-delivering-the-last-10-of-a-four-year-migration "The Last Mile - Delivering the Last 10% of a 4-year Migration") 
+    [[Slides]](https://app.box.com/s/453j26vrbjbqpffr4spd27prfeq3y2m7 "Slides") 
+    [[Recording]](https://www.youtube.com/watch?v=mYXy5q8rR1Y "Recording")
 
 In complex projects, the last 10% of the project is often the most difficult part. In this talk, I will share a case study of Box's 4-year effort to get rid of our legacy mapping DB and move the last piece of our legacy monolith MySQL traffic to our data access layer. This talk will cover how to manage technical risk and optimize team execution in a technically complex and operationally distributed environment. This talk will share reflections on useful tactics that led to the successful completion of this four-year migration project for others to learn from and leverage.
 
@@ -94,15 +93,13 @@ In this session, we will have a candid discussion on the technical and organizat
 Participants will leave with a few ideas that they should be able to try out within their own teams. Additionally, there are some deeper ideas about team leadership and effectiveness that I hope participants will be able to reflect on going forwards.
 
 ### Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations
-- [Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations](https://web.archive.org/web/20210508001423/https://perconaliveonline.sched.com/event/io8Y/introducing-transit-nodes-a-sparse-data-structure-for-recording-sharding-denormalizations "Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations")
+Presented at
+- [Percona Live Online - May 2021](#percona-live-online---may-2021)
 
-- [Presented at Percona Live Online - May 2021](#percona-live-online---may-2021)
-
-- [Slides](https://app.box.com/s/s5vegq0b7yh6va8op85ftqmt12lqdklt "Slides")
-
-- [Recording](https://www.youtube.com/watch?v=h9HwP3jJYuY "Recording")
-
-- [Percona Live 2021 Resources](https://web.archive.org/web/20210605213156/https://www.percona.com/resources/videos/introducing-transit-nodes-sparse-data-structure-recording-denormalizations "Percona Live 2021 Resources")
+[[Description]](https://web.archive.org/web/20210508001423/https://perconaliveonline.sched.com/event/io8Y/introducing-transit-nodes-a-sparse-data-structure-for-recording-sharding-denormalizations "Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations") 
+[[Slides]](https://app.box.com/s/s5vegq0b7yh6va8op85ftqmt12lqdklt "Slides") 
+[[Recording]](https://www.youtube.com/watch?v=h9HwP3jJYuY "Recording") 
+[[Percona Live 2021 Resources]](https://web.archive.org/web/20210605213156/https://www.percona.com/resources/videos/introducing-transit-nodes-sparse-data-structure-recording-denormalizations "Percona Live 2021 Resources")
 
 At Box, we have a fairly uncommon combination of business requirements that, when taken together, means that our relational data access layer must implement cross-shard move operations and orchestration. These moves can be large, and often need to be split across multiple asynchronous transactions. In the middle of this asynchronous orchestration, objects that would ordinarily live on the same shard, may be split across two shards. Our mapping database must faithfully record where each object currently resides, as well as the intended destination.
 
@@ -121,15 +118,13 @@ The transit node concept was carefully designed with a number of invariants, whi
 We will briefly cover the context of sharding at Box, to provide the motivation for the transit node concept. The rest of the talk will present the semantics, invariants, and behaviors of transit nodes, and some results from our deployment. My hope is that the concept can be more broadly useful beyond what we originally designed it for.
 
 ### Turning Pain Into Gain - A Puppet Unit Testing Story
-- [Turning Pain Into Gain: A Puppet Unit Testing Story](https://web.archive.org/web/20201021080349/https://puppetconf2016.sched.com/event/6fjL/turning-pain-into-gain-a-unit-testing-story-nadeem-ahmad-jordan-moldow-box "Turning Pain Into Gain: A Puppet Unit Testing Story")
+Presented at
+- [PuppetConf - October 2016](#puppetconf---october-2016)
 
-- [Presented at PuppetConf - October 2016](#puppetconf---october-2016)
-
-- [Slides](https://app.box.com/s/vu4cyf0s1eoqg1s9xd1se89tx71zcnoy "Slides")
-
-- [Recording](https://www.youtube.com/watch?v=5JT2em4YYIo "Recording")
-
-- [Code](https://github.com/jmoldow/box_spec_helper "Code")
+[[Description]](https://web.archive.org/web/20201021080349/https://puppetconf2016.sched.com/event/6fjL/turning-pain-into-gain-a-unit-testing-story-nadeem-ahmad-jordan-moldow-box "Turning Pain Into Gain: A Puppet Unit Testing Story") 
+[[Slides]](https://app.box.com/s/vu4cyf0s1eoqg1s9xd1se89tx71zcnoy "Slides") 
+[[Recording]](https://www.youtube.com/watch?v=5JT2em4YYIo "Recording") 
+[[Code]](https://github.com/jmoldow/box_spec_helper "Code")
 
 Puppet is integral to Box's infrastructure, serving many purposes. Use of Puppet grew organically, resulting in a large monolith of fragile spaghetti code. When we needed CI, this code was in an untestable state. Out of the box, rspec-puppet didn't work. Rather than continuing to rely only on manual testing or rewriting our code into proper modules, roles, and profiles, we made the unit testing system work with our spaghetti code. Our open-source rspec-puppet extensions enabled us to add coverage for our monolith, and can help others achieve the same. This session covers Box's journey to a fully-featured Puppet CI. We discuss the importance of unit testing, show it's possible to improve testing practices, present solutions to roadblocks we encountered, and share workflows we created.
 
