@@ -35,6 +35,8 @@ Talks
 
 <!---
 
+[comment]: # (Keep this link for my own reference, but don't render it.)
+
 [comment]: # (https://www.facebook.com/Percona/videos/jordan-moldow-from-box-chats-with-perconas-matt-yonkovit-about-his-upcoming-talk/223557959542624/)
 
 --->
