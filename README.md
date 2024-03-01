@@ -4,7 +4,7 @@ Talks I've presented at conferences, meetups, etc.
 ##### Table of Contents
 
 - [Conferences](#conferences)
-  * [DeveloperWeek Global: Enterprise - December 2021](#developerweek-global--enterprise---december-2021)
+  * [DeveloperWeek Global: Enterprise - December 2021](#developerweek-global-enterprise---december-2021)
   * [Percona Live Online - May 2021](#percona-live-online---may-2021)
   * [PuppetConf - October 2016](#puppetconf---october-2016)
 - [Talks](#talks)
@@ -33,6 +33,8 @@ Talks
 [[Conference]](https://web.archive.org/web/20211010014202/https://www.percona.com/conferences/percona-live-online-2021 "Percona Live Online - May 2021") 
 [[Speaker Profile - Jordan Moldow]](https://web.archive.org/web/20210508001339/https://perconaliveonline.sched.com/speaker/jmoldow "Speaker Profile - Jordan Moldow")
 
+> The biggest open source database conference in the world. 196 speakers, 206 sessions and thousands of attendees.
+
 Talks
 - [Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes](#deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes)
 - [The Last Mile - Delivering the Last 10 Percent of a 4-year Migration](#the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration)
@@ -40,7 +42,12 @@ Talks
 
 ### PuppetConf - October 2016
 [[Conference]](https://web.archive.org/web/20200929171915/https://puppetconf2016.sched.com/ "PuppetConf - October 2016") 
-[[Speaker Profile - Jordan Moldow]](https://web.archive.org/web/20210228060544/https://puppetconf2016.sched.com/speaker/jordan_moldow.1vbsm1tl "Speaker Profile - Jordan Moldow")
+[[Speaker Profile - Jordan Moldow]](https://web.archive.org/web/20210228060544/https://puppetconf2016.sched.com/speaker/jordan_moldow.1vbsm1tl "Speaker Profile - Jordan Moldow") 
+[[Conference Announcement Press Release]](https://web.archive.org/web/20240301022301/https://www.globenewswire.com/en/news-release/2016/03/10/1229926/0/en/PuppetConf-2016-Call-for-Papers-Is-Now-Open.html)
+
+> The IT Automation Event of the Year to Feature the Brightest Minds in Tech Discussing Technology, Culture and Organizational Transformation
+>
+> PuppetConf is the can't-miss IT automation event of the year. PuppetConf in sunny San Diego will feature five days of training, more than 100 speakers, a Contributor Summit, certification testing, a Partner Summit and more.
 
 Talks
 - [Turning Pain Into Gain - A Puppet Unit Testing Story](#turning-pain-into-gain---a-puppet-unit-testing-story)
@@ -69,7 +76,7 @@ For this demo, I use the excellent open-source Vitess-operator for Kubernetes, p
 ### The Last Mile - Delivering the Last 10 Percent of a 4-year Migration
 - [The Last Mile - Delivering the Last 10% of a 4-year Migration](https://web.archive.org/web/20210508001407/https://perconaliveonline.sched.com/event/io6f/the-last-mile-delivering-the-last-10-of-a-four-year-migration "The Last Mile - Delivering the Last 10% of a 4-year Migration")
 
-- [Presented at DeveloperWeek Global: Enterprise - December 2021](#developerweek-global--enterprise---december-2021)
+- [Presented at DeveloperWeek Global: Enterprise - December 2021](#developerweek-global-enterprise---december-2021)
 
 - [Presented at Percona Live Online - May 2021](#percona-live-online---may-2021)
 
