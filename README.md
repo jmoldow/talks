@@ -82,6 +82,7 @@ The transit node concept was carefully designed with a number of invariants, whi
 We will briefly cover the context of sharding at Box, to provide the motivation for the transit node concept. The rest of the talk will present the semantics, invariants, and behaviors of transit nodes, and some results from our deployment. My hope is that the concept can be more broadly useful beyond what we originally designed it for.
 
 ### Turning Pain Into Gain - A Puppet Unit Testing Story
+Presented by: Nadeem Ahmad and **Jordan Moldow**
 Presented at: [PuppetConf - October 2016](#puppetconf---october-2016)
 
 [[Description]](https://web.archive.org/web/20201021080349/https://puppetconf2016.sched.com/event/6fjL/turning-pain-into-gain-a-unit-testing-story-nadeem-ahmad-jordan-moldow-box "Turning Pain Into Gain: A Puppet Unit Testing Story") 
