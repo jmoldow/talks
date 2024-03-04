@@ -21,6 +21,9 @@ Talks I've presented at conferences, meetups, etc.
 ## Talks
 
 ### The Last Mile - Delivering the Last 10 Percent of a 4-year Migration
+
+Presented by: **Jordan Moldow**
+
 Presented at
 - [DeveloperWeek Global: Enterprise - December 2021](#developerweek-global-enterprise---december-2021)
   * [[Description]](https://web.archive.org/web/20220810081639/https://embed.emamo.com/event/developerweek-global-enterprise-2021/s/the-last-mile-delivering-the-last-10-of-a-4-year-migration-WK4zqo "The Last Mile: Delivering the Last 10% Of a 4-Year Migration") 
@@ -42,6 +45,8 @@ Participants will leave with a few ideas that they should be able to try out wit
 
 ### Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes
 
+Presented by: **Jordan Moldow**
+
 Presented at: [Percona Live Online - May 2021](#percona-live-online---may-2021)
 
 [[Description]](https://web.archive.org/web/20210508001359/https://perconaliveonline.sched.com/event/io6K/deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes "Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes") 
@@ -58,6 +63,9 @@ Even with the best possible documentation (and the Vitess documentation is quite
 For this demo, I use the excellent open-source Vitess-operator for Kubernetes, provided by PlanetScale. Even if you aren't considering deploying Vitess on Kubernetes in production, I still highly recommend it for sandbox use. Deploying an arbitrary number of components is super trivial with the operator, and everything auto-wires automatically. No need to delay your evaluation by needing to manually bootstrap a cluster one node at a time, or write your own deployment tools.
 
 ### Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations
+
+Presented by: **Jordan Moldow**
+
 Presented at: [Percona Live Online - May 2021](#percona-live-online---may-2021)
 
 [[Description]](https://web.archive.org/web/20210508001423/https://perconaliveonline.sched.com/event/io8Y/introducing-transit-nodes-a-sparse-data-structure-for-recording-sharding-denormalizations "Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations") 
