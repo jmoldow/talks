@@ -146,7 +146,7 @@ Talk: [Turning Pain Into Gain - A Puppet Unit Testing Story](#turning-pain-into-
 ## Miscellaneous
 
 ### Python 3 Async Tutorial
-- [Python 3 Async Tutorial](https://github.com/jmoldow/jmoldow-python3-async-tutorial "Python 3 Async Tutorial")
+- [Python 3 Async Tutorial](https://jmoldow.github.io/jmoldow-python3-async-tutorial "Python 3 Async Tutorial")
 
 Tutorial for everything async in Python3: generators, coroutines, async/await syntax, and asyncio.
 
