@@ -157,7 +157,7 @@ We'll start from simple generators, moving to yield from syntax, and then to cor
 Presented at public and internal Python meetups / code walkthroughs.
 
 ### Intro Programming in Python
-- [Intro Programming in Python](https://github.com/jmoldow/python-splash-lesson "Intro Programming in Python")
+- [Intro Programming in Python](https://jmoldow.github.io/python-splash-lesson "Intro Programming in Python")
 
 A two-hour, introductory programming course, for beginners in high school or middle school, using the Python programming language.
 
