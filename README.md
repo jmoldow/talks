@@ -93,9 +93,9 @@ The transit node concept was carefully designed with a number of invariants, whi
 We will briefly cover the context of sharding at Box, to provide the motivation for the transit node concept. The rest of the talk will present the semantics, invariants, and behaviors of transit nodes, and some results from our deployment. My hope is that the concept can be more broadly useful beyond what we originally designed it for.
 
 <a href="https://www.youtube.com/watch?v=h9HwP3jJYuY" title="Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations - YouTube - Recording">
-<img src="assets/images/introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations-youtube-recording.png" alt="Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations - YouTube - Recording" width="1366" height="768" style="width:49%; height:49%;">
+<img src="assets/images/introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations-youtube-recording.png" alt="Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations - YouTube - Recording" width="1276" height="718" style="width:49%; aspect-ratio:16/9 auto;">
 </a> <a href="https://app.box.com/s/s5vegq0b7yh6va8op85ftqmt12lqdklt" title="Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations - Slides">
-<img src="assets/images/introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations-box-slides.png" alt="Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations - Slides" width="1320" height="706" style="width:49%; height:49%;">
+<img src="assets/images/introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations-box-slides.png" alt="Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations - Slides" width="1320" height="706" style="width:49%; aspect-ratio:1320/706 auto;">
 </a>
 
 ### Turning Pain Into Gain - A Puppet Unit Testing Story
