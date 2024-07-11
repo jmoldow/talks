@@ -64,6 +64,12 @@ Even with the best possible documentation (and the Vitess documentation is quite
 
 For this demo, I use the excellent open-source Vitess-operator for Kubernetes, provided by PlanetScale. Even if you aren't considering deploying Vitess on Kubernetes in production, I still highly recommend it for sandbox use. Deploying an arbitrary number of components is super trivial with the operator, and everything auto-wires automatically. No need to delay your evaluation by needing to manually bootstrap a cluster one node at a time, or write your own deployment tools.
 
+<a href="https://www.youtube.com/watch?v=Bllc-u_cCGA" title="Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes - YouTube - Recording">
+<img src="assets/images/deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes-youtube-recording.png" alt="Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes - YouTube - Recording" style="width:49%; max-width:49%; max-height:49%; aspect-ratio:16/9; vertical-align:middle; object-fit:scale-down;">
+</a> <a href="https://app.box.com/s/p3e03oqiwv1q3mtclm34mpcb6tqub75j" title="Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes - Slides">
+<img src="assets/images/deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes-box-slides.png" alt="Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes - Slides" style="width:49%; max-width:49%; max-height:49%; aspect-ratio:1311/700 auto; vertical-align:middle; object-fit:scale-down;">
+</a>
+
 ### Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations
 
 Presented by: **Jordan Moldow**
