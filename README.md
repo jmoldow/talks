@@ -26,13 +26,13 @@ Talks I've presented at conferences, meetups, etc.
 Presented by: **Jordan Moldow**
 
 Presented at
-- [DeveloperWeek Global: Enterprise - December 2021](#developerweek-global-enterprise---december-2021)
-  * [[Description]](https://web.archive.org/web/20220810081639/https://embed.emamo.com/event/developerweek-global-enterprise-2021/s/the-last-mile-delivering-the-last-10-of-a-4-year-migration-WK4zqo "The Last Mile: Delivering the Last 10% Of a 4-Year Migration")
-    [[Slides]](https://app.box.com/s/nntx8biljij0ts1zoczw31pjzre2sd0e "Slides")
 - [Percona Live Online - May 2021](#percona-live-online---may-2021)
   * [[Recording]](https://www.youtube.com/watch?v=mYXy5q8rR1Y "Recording")
-  * [[Description]](https://web.archive.org/web/20210508001407/https://perconaliveonline.sched.com/event/io6f/the-last-mile-delivering-the-last-10-of-a-four-year-migration "The Last Mile - Delivering the Last 10% of a 4-year Migration")
     [[Slides]](https://app.box.com/s/453j26vrbjbqpffr4spd27prfeq3y2m7 "Slides")
+  * [[Description]](https://web.archive.org/web/20210508001407/https://perconaliveonline.sched.com/event/io6f/the-last-mile-delivering-the-last-10-of-a-four-year-migration "The Last Mile - Delivering the Last 10% of a 4-year Migration")
+- [DeveloperWeek Global: Enterprise - December 2021](#developerweek-global-enterprise---december-2021)
+  * [[Slides]](https://app.box.com/s/nntx8biljij0ts1zoczw31pjzre2sd0e "Slides")
+    [[Description]](https://web.archive.org/web/20220810081639/https://embed.emamo.com/event/developerweek-global-enterprise-2021/s/the-last-mile-delivering-the-last-10-of-a-4-year-migration-WK4zqo "The Last Mile: Delivering the Last 10% Of a 4-Year Migration")
 
 In complex projects, the last 10% of the project is often the most difficult part. In this talk, I will share a case study of Box's 4-year effort to get rid of our legacy mapping DB and move the last piece of our legacy monolith MySQL traffic to our data access layer. This talk will cover how to manage technical risk and optimize team execution in a technically complex and operationally distributed environment. This talk will share reflections on useful tactics that led to the successful completion of this four-year migration project for others to learn from and leverage.
 
@@ -51,9 +51,9 @@ Presented by: **Jordan Moldow**
 Presented at: [Percona Live Online - May 2021](#percona-live-online---may-2021)
 
 [[Recording]](https://www.youtube.com/watch?v=Bllc-u_cCGA "Recording")
+[[Slides]](https://app.box.com/s/p3e03oqiwv1q3mtclm34mpcb6tqub75j "Slides")
 
 [[Description]](https://web.archive.org/web/20210508001359/https://perconaliveonline.sched.com/event/io6K/deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes "Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes")
-[[Slides]](https://app.box.com/s/p3e03oqiwv1q3mtclm34mpcb6tqub75j "Slides")
 [[Vitess operator examples]](https://github.com/jmoldow/vitess-operator-examples "Vitess operator examples")
 
 I show, with a live demo/tutorial, that deploying and evaluating a Vitess ("A database clustering system for horizontal scaling of MySQL" - https://vitess.io) sandbox cluster, into a public cloud environment, can be done super easily.
@@ -77,9 +77,9 @@ Presented by: **Jordan Moldow**
 Presented at: [Percona Live Online - May 2021](#percona-live-online---may-2021)
 
 [[Recording]](https://www.youtube.com/watch?v=h9HwP3jJYuY "Recording")
+[[Slides]](https://app.box.com/s/s5vegq0b7yh6va8op85ftqmt12lqdklt "Slides")
 
 [[Description]](https://web.archive.org/web/20210508001423/https://perconaliveonline.sched.com/event/io8Y/introducing-transit-nodes-a-sparse-data-structure-for-recording-sharding-denormalizations "Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations")
-[[Slides]](https://app.box.com/s/s5vegq0b7yh6va8op85ftqmt12lqdklt "Slides")
 [[Percona Live 2021 Resources]](https://web.archive.org/web/20210605213156/https://www.percona.com/resources/videos/introducing-transit-nodes-sparse-data-structure-recording-denormalizations "Percona Live 2021 Resources")
 
 At Box, we have a fairly uncommon combination of business requirements that, when taken together, means that our relational data access layer must implement cross-shard move operations and orchestration. These moves can be large, and often need to be split across multiple asynchronous transactions. In the middle of this asynchronous orchestration, objects that would ordinarily live on the same shard, may be split across two shards. Our mapping database must faithfully record where each object currently resides, as well as the intended destination.
@@ -111,9 +111,9 @@ Presented by: Nadeem Ahmad and **Jordan Moldow**
 Presented at: [PuppetConf - October 2016](#puppetconf---october-2016)
 
 [[Recording]](https://www.youtube.com/watch?v=5JT2em4YYIo "Recording")
+[[Slides]](https://app.box.com/s/vu4cyf0s1eoqg1s9xd1se89tx71zcnoy "Slides")
 
 [[Description]](https://web.archive.org/web/20201021080349/https://puppetconf2016.sched.com/event/6fjL/turning-pain-into-gain-a-unit-testing-story-nadeem-ahmad-jordan-moldow-box "Turning Pain Into Gain: A Puppet Unit Testing Story")
-[[Slides]](https://app.box.com/s/vu4cyf0s1eoqg1s9xd1se89tx71zcnoy "Slides")
 [[Code]](https://github.com/jmoldow/box_spec_helper "Code")
 
 Puppet is integral to Box's infrastructure, serving many purposes. Use of Puppet grew organically, resulting in a large monolith of fragile spaghetti code. When we needed CI, this code was in an untestable state. Out of the box, rspec-puppet didn't work. Rather than continuing to rely only on manual testing or rewriting our code into proper modules, roles, and profiles, we made the unit testing system work with our spaghetti code. Our open-source rspec-puppet extensions enabled us to add coverage for our monolith, and can help others achieve the same. This session covers Box's journey to a fully-featured Puppet CI. We discuss the importance of unit testing, show it's possible to improve testing practices, present solutions to roadblocks we encountered, and share workflows we created.
