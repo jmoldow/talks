@@ -92,9 +92,11 @@ The transit node concept was carefully designed with a number of invariants, whi
 
 We will briefly cover the context of sharding at Box, to provide the motivation for the transit node concept. The rest of the talk will present the semantics, invariants, and behaviors of transit nodes, and some results from our deployment. My hope is that the concept can be more broadly useful beyond what we originally designed it for.
 
-[![Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations - YouTube - Recording](assets/images/introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations-youtube-recording.png)](https://www.youtube.com/watch?v=5JT2em4YYIo "Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations - YouTube - Recording")
-
-[![Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations - Slides](assets/images/introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations-box-slides.png)](https://app.box.com/s/vu4cyf0s1eoqg1s9xd1se89tx71zcnoy "Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations - Slides")
+<a href="https://www.youtube.com/watch?v=5JT2em4YYIo" title="Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations - YouTube - Recording">
+<img src="assets/images/introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations-youtube-recording.png" alt="Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations - YouTube - Recording" width="50%">
+</a><a href="https://app.box.com/s/vu4cyf0s1eoqg1s9xd1se89tx71zcnoy" title="Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations - Slides">
+<img src="assets/images/introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations-box-slides.png" alt="Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations - Slides" width="50%">
+</a>
 
 ### Turning Pain Into Gain - A Puppet Unit Testing Story
 
