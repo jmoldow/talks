@@ -44,6 +44,12 @@ In this session, we will have a candid discussion on the technical and organizat
 
 Participants will leave with a few ideas that they should be able to try out within their own teams. Additionally, there are some deeper ideas about team leadership and effectiveness that I hope participants will be able to reflect on going forwards.
 
+<a href="https://www.youtube.com/watch?v=mYXy5q8rR1Y" title="The Last Mile - Delivering the Last 10 Percent of a 4-year Migration - YouTube - Recording">
+<img src="assets/images/the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration-youtube-recording.png" alt="The Last Mile - Delivering the Last 10 Percent of a 4-year Migration - YouTube - Recording" style="width:49%; max-width:49%; max-height:49%; aspect-ratio:16/9; vertical-align:middle; object-fit:scale-down;">
+</a> <a href="https://app.box.com/s/453j26vrbjbqpffr4spd27prfeq3y2m7" title="The Last Mile - Delivering the Last 10 Percent of a 4-year Migration - Slides">
+<img src="assets/images/the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration-box-slides.png" alt="The Last Mile - Delivering the Last 10 Percent of a 4-year Migration - Slides" style="width:49%; max-width:49%; max-height:49%; aspect-ratio:1274/560 auto; vertical-align:middle; object-fit:scale-down;">
+</a>
+
 ### Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes
 
 Presented by: **Jordan Moldow**
