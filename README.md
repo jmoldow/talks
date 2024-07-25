@@ -183,6 +183,8 @@ We'll start from simple generators, moving to yield from syntax, and then to cor
 
 Presented at public and internal Python meetups / code walkthroughs.
 
+![Jordan Moldow presenting the Python 3 Async Tutorial to attendees at Pyninsula Python Meetup on 2017-10-24](assets/images/Pyninsula Python Meetup at Box Python Python3 async asyncio tutorial IMG_20171024_203359840.jpg "Jordan Moldow presenting the Python 3 Async Tutorial to attendees at Pyninsula Python Meetup on 2017-10-24")
+
 ### Intro Programming in Python
 - [Intro Programming in Python](https://jmoldow.github.io/python-splash-lesson "Intro Programming in Python")
 
