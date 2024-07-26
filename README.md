@@ -130,6 +130,10 @@ Puppet is integral to Box's infrastructure, serving many purposes. Use of Puppet
 <img src="assets/images/turning-pain-into-gain---a-puppet-unit-testing-story-box-slides.png" alt="Turning Pain Into Gain - A Puppet Unit Testing Story - Slides" style="width:49%; max-width:49%; max-height:49%; aspect-ratio:1311/700 auto; vertical-align:middle; object-fit:scale-down;">
 </a>
 
+![Jordan Moldow presenting the 'Turning Pain Into Gain - A Puppey Unit Testing Story' talk to attendees at PuppetConf 2016](<assets/images/IMG_20161020_143146_wide.jpg> "Jordan Moldow presenting the 'Turning Pain Into Gain - A Puppey Unit Testing Story' talk to attendees at PuppetConf 2016")
+![Jordan Moldow presenting the 'Turning Pain Into Gain - A Puppey Unit Testing Story' talk to attendees at PuppetConf 2016](<assets/images/IMG_20161020_143847_wide.jpg> "Jordan Moldow presenting the 'Turning Pain Into Gain - A Puppey Unit Testing Story' talk to attendees at PuppetConf 2016")
+![Jordan Moldow presenting the 'Turning Pain Into Gain - A Puppey Unit Testing Story' talk to attendees at PuppetConf 2016](<assets/images/IMG_20161020_145350_orig_copy.jpg> "Jordan Moldow presenting the 'Turning Pain Into Gain - A Puppey Unit Testing Story' talk to attendees at PuppetConf 2016")
+
 ## Conferences
 
 ### DeveloperWeek Global Enterprise - December 2021
