@@ -2,8 +2,6 @@
 <!-- AUTO-GENERATED FILE -->
 <!--BEGIN:deploying-a-sharded-vitess-sandbox-cluster-->
 
-### Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes
-
 Presented by: **Jordan Moldow**
 
 Presented at: [Percona Live Online - May 2021](#percona-live-online---may-2021)

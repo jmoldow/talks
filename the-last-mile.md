@@ -1,8 +1,6 @@
 ### The Last Mile - Delivering the Last 10 Percent of a 4-year Migration
 <!-- AUTO-GENERATED FILE -->
 <!--BEGIN:the-last-mile-->
-
-### The Last Mile - Delivering the Last 10 Percent of a 4-year Migration
 **And experiments in team effectiveness**
 
 Presented by: **Jordan Moldow**

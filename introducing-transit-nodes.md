@@ -2,8 +2,6 @@
 <!-- AUTO-GENERATED FILE -->
 <!--BEGIN:introducing-transit-nodes-->
 
-### Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations
-
 Presented by: **Jordan Moldow**
 
 Presented at: [Percona Live Online - May 2021](#percona-live-online---may-2021)

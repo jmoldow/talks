@@ -2,8 +2,6 @@
 <!-- AUTO-GENERATED FILE -->
 <!--BEGIN:turning-pain-into-gain-->
 
-### Turning Pain Into Gain - A Puppet Unit Testing Story
-
 Presented by: Nadeem Ahmad and **Jordan Moldow**
 
 Presented at: [PuppetConf - October 2016](#puppetconf---october-2016)
