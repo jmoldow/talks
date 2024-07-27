@@ -1,6 +1,8 @@
 # Jordan Moldow's conference talks
 Talks I've presented at conferences, meetups, etc.
 
+<!-- Install git hooks using `git config --local core.hooksPath ./git/hooks/` -->
+
 ##### Table of Contents
 
 - [Talks](#talks)
@@ -19,6 +21,8 @@ Talks I've presented at conferences, meetups, etc.
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Talks
+
+<!--BEGIN:the-last-mile-->
 
 ### The Last Mile - Delivering the Last 10 Percent of a 4-year Migration
 **And experiments in team effectiveness**
@@ -50,6 +54,10 @@ Participants will leave with a few ideas that they should be able to try out wit
 <img src="assets/images/the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration-box-slides.png" alt="The Last Mile - Delivering the Last 10 Percent of a 4-year Migration - Slides" style="width:49%; max-width:49%; max-height:49%; aspect-ratio:1274/560 auto; vertical-align:middle; object-fit:scale-down;">
 </a>
 
+<!--END:the-last-mile-->
+
+<!--BEGIN:deploying-a-sharded-vitess-sandbox-cluster-->
+
 ### Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes
 
 Presented by: **Jordan Moldow**
@@ -75,6 +83,10 @@ For this demo, I use the excellent open-source Vitess-operator for Kubernetes, p
 </a> <a href="https://app.box.com/s/p3e03oqiwv1q3mtclm34mpcb6tqub75j" title="Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes - Slides">
 <img src="assets/images/deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes-box-slides.png" alt="Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes - Slides" style="width:49%; max-width:49%; max-height:49%; aspect-ratio:1311/700 auto; vertical-align:middle; object-fit:scale-down;">
 </a>
+
+<!--END:deploying-a-sharded-vitess-sandbox-cluster-->
+
+<!--BEGIN:introducing-transit-nodes-->
 
 ### Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations
 
@@ -110,6 +122,10 @@ We will briefly cover the context of sharding at Box, to provide the motivation 
 <img src="assets/images/introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations-box-slides.png" alt="Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations - Slides" style="width:49%; max-width:49%; max-height:49%; aspect-ratio:1366/561 auto; vertical-align:middle; object-fit:scale-down;">
 </a>
 
+<!--END:introducing-transit-nodes-->
+
+<!--BEGIN:turning-pain-into-gain-->
+
 ### Turning Pain Into Gain - A Puppet Unit Testing Story
 
 Presented by: Nadeem Ahmad and **Jordan Moldow**
@@ -133,6 +149,8 @@ Puppet is integral to Box's infrastructure, serving many purposes. Use of Puppet
 ![Jordan Moldow presenting the 'Turning Pain Into Gain - A Puppey Unit Testing Story' talk to attendees at PuppetConf 2016](<assets/images/IMG_20161020_143146_wide.jpg> "Jordan Moldow presenting the 'Turning Pain Into Gain - A Puppey Unit Testing Story' talk to attendees at PuppetConf 2016")
 ![Jordan Moldow presenting the 'Turning Pain Into Gain - A Puppey Unit Testing Story' talk to attendees at PuppetConf 2016](<assets/images/IMG_20161020_143847_wide.jpg> "Jordan Moldow presenting the 'Turning Pain Into Gain - A Puppey Unit Testing Story' talk to attendees at PuppetConf 2016")
 ![Jordan Moldow presenting the 'Turning Pain Into Gain - A Puppey Unit Testing Story' talk to attendees at PuppetConf 2016](<assets/images/IMG_20161020_145350_orig_copy.jpg> "Jordan Moldow presenting the 'Turning Pain Into Gain - A Puppey Unit Testing Story' talk to attendees at PuppetConf 2016")
+
+<!--END:turning-pain-into-gain-->
 
 ## Conferences
 
