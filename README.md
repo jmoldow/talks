@@ -34,7 +34,7 @@ Presented at
   * [[Recording]](https://www.youtube.com/watch?v=mYXy5q8rR1Y "Recording")
     [[Slides]](https://app.box.com/s/453j26vrbjbqpffr4spd27prfeq3y2m7 "Slides")
   * [[Description]](https://web.archive.org/web/20210508001407/https://perconaliveonline.sched.com/event/io6f/the-last-mile-delivering-the-last-10-of-a-four-year-migration "The Last Mile - Delivering the Last 10% of a 4-year Migration")
-- [DeveloperWeek Global: Enterprise - December 2021](#developerweek-global-enterprise---december-2021)
+- [DeveloperWeek Global: Enterprise - December 2021](<.#developerweek-global-enterprise---december-2021>)
   * [[Slides]](https://app.box.com/s/nntx8biljij0ts1zoczw31pjzre2sd0e "Slides")
     [[Description]](https://web.archive.org/web/20220810081639/https://embed.emamo.com/event/developerweek-global-enterprise-2021/s/the-last-mile-delivering-the-last-10-of-a-4-year-migration-WK4zqo "The Last Mile: Delivering the Last 10% Of a 4-Year Migration")
 
@@ -62,7 +62,7 @@ Participants will leave with a few ideas that they should be able to try out wit
 
 Presented by: **Jordan Moldow**
 
-Presented at: [Percona Live Online - May 2021](#percona-live-online---may-2021)
+Presented at: [Percona Live Online - May 2021](<.#percona-live-online---may-2021>)
 
 [[Recording]](https://www.youtube.com/watch?v=Bllc-u_cCGA "Recording")
 [[Slides]](https://app.box.com/s/p3e03oqiwv1q3mtclm34mpcb6tqub75j "Slides")
@@ -92,7 +92,7 @@ For this demo, I use the excellent open-source Vitess-operator for Kubernetes, p
 
 Presented by: **Jordan Moldow**
 
-Presented at: [Percona Live Online - May 2021](#percona-live-online---may-2021)
+Presented at: [Percona Live Online - May 2021](<.#percona-live-online---may-2021>)
 
 [[Recording]](https://www.youtube.com/watch?v=h9HwP3jJYuY "Recording")
 [[Slides]](https://app.box.com/s/s5vegq0b7yh6va8op85ftqmt12lqdklt "Slides")
@@ -130,7 +130,7 @@ We will briefly cover the context of sharding at Box, to provide the motivation 
 
 Presented by: Nadeem Ahmad and **Jordan Moldow**
 
-Presented at: [PuppetConf - October 2016](#puppetconf---october-2016)
+Presented at: [PuppetConf - October 2016](<.#puppetconf---october-2016>)
 
 [[Recording]](https://www.youtube.com/watch?v=5JT2em4YYIo "Recording")
 [[Slides]](https://app.box.com/s/vu4cyf0s1eoqg1s9xd1se89tx71zcnoy "Slides")
@@ -155,7 +155,7 @@ Puppet is integral to Box's infrastructure, serving many purposes. Use of Puppet
 ## Conferences
 
 ### DeveloperWeek Global Enterprise - December 2021
-Talk: [The Last Mile - Delivering the Last 10 Percent of a 4-year Migration](#the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration)
+Talk: [The Last Mile - Delivering the Last 10 Percent of a 4-year Migration](<.#the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration>)
 
 [[Conference]](https://web.archive.org/web/20211028080259/https://www.developerweek.com/global/conference/enterprise/ "DeveloperWeek Global: Enterprise - Virtual Conference & Expo")
 [[Speaker Profile - Jordan Moldow]](https://web.archive.org/web/20220810075850/https://embed.emamo.com/event/developerweek-global-enterprise-2021/r/speaker/jordan-moldow "Speaker Profile - Jordan Moldow")
@@ -164,9 +164,9 @@ Talk: [The Last Mile - Delivering the Last 10 Percent of a 4-year Migration](#th
 
 ### Percona Live Online - May 2021
 Talks
-- [Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes](#deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes)
-- [The Last Mile - Delivering the Last 10 Percent of a 4-year Migration](#the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration)
-- [Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations](#introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations)
+- [The Last Mile - Delivering the Last 10 Percent of a 4-year Migration](<.#the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration>)
+- [Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes](<.#deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes>)
+- [Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations](<.#introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations>)
 
 [[Conference]](https://web.archive.org/web/20211010014202/https://www.percona.com/conferences/percona-live-online-2021 "Percona Live Online - May 2021")
 [[Speaker Profile - Jordan Moldow]](https://web.archive.org/web/20210508001339/https://perconaliveonline.sched.com/speaker/jmoldow "Speaker Profile - Jordan Moldow")
@@ -182,7 +182,7 @@ Talks
 > The biggest open source database conference in the world. 196 speakers, 206 sessions and thousands of attendees.
 
 ### PuppetConf - October 2016
-Talk: [Turning Pain Into Gain - A Puppet Unit Testing Story](#turning-pain-into-gain---a-puppet-unit-testing-story)
+Talk: [Turning Pain Into Gain - A Puppet Unit Testing Story](<.#turning-pain-into-gain---a-puppet-unit-testing-story>)
 
 [[Conference]](https://web.archive.org/web/20200929171915/https://puppetconf2016.sched.com/ "PuppetConf - October 2016")
 [[Speaker Profile - Jordan Moldow]](https://web.archive.org/web/20210228060544/https://puppetconf2016.sched.com/speaker/jordan_moldow.1vbsm1tl "Speaker Profile - Jordan Moldow")

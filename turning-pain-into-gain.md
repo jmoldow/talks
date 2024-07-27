@@ -6,7 +6,7 @@
 
 Presented by: Nadeem Ahmad and **Jordan Moldow**
 
-Presented at: [PuppetConf - October 2016](#puppetconf---october-2016)
+Presented at: [PuppetConf - October 2016](<.#puppetconf---october-2016>)
 
 [[Recording]](https://www.youtube.com/watch?v=5JT2em4YYIo "Recording")
 [[Slides]](https://app.box.com/s/vu4cyf0s1eoqg1s9xd1se89tx71zcnoy "Slides")

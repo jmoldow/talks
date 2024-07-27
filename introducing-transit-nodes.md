@@ -6,7 +6,7 @@
 
 Presented by: **Jordan Moldow**
 
-Presented at: [Percona Live Online - May 2021](#percona-live-online---may-2021)
+Presented at: [Percona Live Online - May 2021](<.#percona-live-online---may-2021>)
 
 [[Recording]](https://www.youtube.com/watch?v=h9HwP3jJYuY "Recording")
 [[Slides]](https://app.box.com/s/s5vegq0b7yh6va8op85ftqmt12lqdklt "Slides")
