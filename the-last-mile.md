@@ -8,7 +8,7 @@
 Presented by: **Jordan Moldow**
 
 Presented at
-- [Percona Live Online - May 2021](#percona-live-online---may-2021)
+- [Percona Live Online - May 2021](<.#percona-live-online---may-2021>)
   * [[Recording]](https://www.youtube.com/watch?v=mYXy5q8rR1Y "Recording")
     [[Slides]](https://app.box.com/s/453j26vrbjbqpffr4spd27prfeq3y2m7 "Slides")
   * [[Description]](https://web.archive.org/web/20210508001407/https://perconaliveonline.sched.com/event/io6f/the-last-mile-delivering-the-last-10-of-a-four-year-migration "The Last Mile - Delivering the Last 10% of a 4-year Migration")
