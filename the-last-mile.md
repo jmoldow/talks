@@ -1,5 +1,6 @@
-<!--BEGIN:the-last-mile-->
+### The Last Mile - Delivering the Last 10 Percent of a 4-year Migration
 <!-- AUTO-GENERATED FILE -->
+<!--BEGIN:the-last-mile-->
 
 ### The Last Mile - Delivering the Last 10 Percent of a 4-year Migration
 **And experiments in team effectiveness**
@@ -31,5 +32,5 @@ Participants will leave with a few ideas that they should be able to try out wit
 <img src="assets/images/the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration-box-slides.png" alt="The Last Mile - Delivering the Last 10 Percent of a 4-year Migration - Slides" style="width:49%; max-width:49%; max-height:49%; aspect-ratio:1274/560 auto; vertical-align:middle; object-fit:scale-down;">
 </a>
 
-<!-- AUTO-GENERATED FILE -->
 <!--END:the-last-mile-->
+<!-- AUTO-GENERATED FILE -->

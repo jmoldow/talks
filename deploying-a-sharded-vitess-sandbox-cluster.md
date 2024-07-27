@@ -1,5 +1,6 @@
-<!--BEGIN:deploying-a-sharded-vitess-sandbox-cluster-->
+### Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes
 <!-- AUTO-GENERATED FILE -->
+<!--BEGIN:deploying-a-sharded-vitess-sandbox-cluster-->
 
 ### Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes
 
@@ -27,5 +28,5 @@ For this demo, I use the excellent open-source Vitess-operator for Kubernetes, p
 <img src="assets/images/deploying-a-sharded-vitess-sandbox-cluster-in-public-cloud-kubernetes-in-10-minutes-box-slides.png" alt="Deploying a Sharded Vitess Sandbox Cluster in Public Cloud Kubernetes in 10 Minutes - Slides" style="width:49%; max-width:49%; max-height:49%; aspect-ratio:1311/700 auto; vertical-align:middle; object-fit:scale-down;">
 </a>
 
-<!-- AUTO-GENERATED FILE -->
 <!--END:deploying-a-sharded-vitess-sandbox-cluster-->
+<!-- AUTO-GENERATED FILE -->
