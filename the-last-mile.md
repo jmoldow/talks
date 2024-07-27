@@ -1,6 +1,8 @@
 ### The Last Mile - Delivering the Last 10 Percent of a 4-year Migration
+
 <!-- AUTO-GENERATED FILE -->
 <!--BEGIN:the-last-mile-->
+
 **And experiments in team effectiveness**
 
 Presented by: **Jordan Moldow**
@@ -29,6 +31,9 @@ Participants will leave with a few ideas that they should be able to try out wit
 </a> <a href="https://app.box.com/s/453j26vrbjbqpffr4spd27prfeq3y2m7" title="The Last Mile - Delivering the Last 10 Percent of a 4-year Migration - Slides">
 <img src="assets/images/the-last-mile---delivering-the-last-10-percent-of-a-4-year-migration-box-slides.png" alt="The Last Mile - Delivering the Last 10 Percent of a 4-year Migration - Slides" style="width:49%; max-width:49%; max-height:49%; aspect-ratio:1274/560 auto; vertical-align:middle; object-fit:scale-down;">
 </a>
+
+
+[View my other conference talks](<.> 'Jordan Moldow’s conference talks — Talks I’ve presented at conferences, meetups, etc.')
 
 <!--END:the-last-mile-->
 <!-- AUTO-GENERATED FILE -->

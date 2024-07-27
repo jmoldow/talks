@@ -1,6 +1,8 @@
 ### Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations
+
 <!-- AUTO-GENERATED FILE -->
 <!--BEGIN:introducing-transit-nodes-->
+
 
 Presented by: **Jordan Moldow**
 
@@ -33,6 +35,9 @@ We will briefly cover the context of sharding at Box, to provide the motivation 
 </a> <a href="https://app.box.com/s/s5vegq0b7yh6va8op85ftqmt12lqdklt" title="Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations - Slides">
 <img src="assets/images/introducing-transit-nodes---a-sparse-data-structure-for-recording-sharding-denormalizations-box-slides.png" alt="Introducing Transit Nodes - A Sparse Data Structure for Recording Sharding Denormalizations - Slides" style="width:49%; max-width:49%; max-height:49%; aspect-ratio:1366/561 auto; vertical-align:middle; object-fit:scale-down;">
 </a>
+
+
+[View my other conference talks](<.> 'Jordan Moldow’s conference talks — Talks I’ve presented at conferences, meetups, etc.')
 
 <!--END:introducing-transit-nodes-->
 <!-- AUTO-GENERATED FILE -->

@@ -1,6 +1,8 @@
 ### Turning Pain Into Gain - A Puppet Unit Testing Story
+
 <!-- AUTO-GENERATED FILE -->
 <!--BEGIN:turning-pain-into-gain-->
+
 
 Presented by: Nadeem Ahmad and **Jordan Moldow**
 
@@ -23,6 +25,9 @@ Puppet is integral to Box's infrastructure, serving many purposes. Use of Puppet
 ![Jordan Moldow presenting the 'Turning Pain Into Gain - A Puppey Unit Testing Story' talk to attendees at PuppetConf 2016](<assets/images/IMG_20161020_143146_wide.jpg> "Jordan Moldow presenting the 'Turning Pain Into Gain - A Puppey Unit Testing Story' talk to attendees at PuppetConf 2016")
 ![Jordan Moldow presenting the 'Turning Pain Into Gain - A Puppey Unit Testing Story' talk to attendees at PuppetConf 2016](<assets/images/IMG_20161020_143847_wide.jpg> "Jordan Moldow presenting the 'Turning Pain Into Gain - A Puppey Unit Testing Story' talk to attendees at PuppetConf 2016")
 ![Jordan Moldow presenting the 'Turning Pain Into Gain - A Puppey Unit Testing Story' talk to attendees at PuppetConf 2016](<assets/images/IMG_20161020_145350_orig_copy.jpg> "Jordan Moldow presenting the 'Turning Pain Into Gain - A Puppey Unit Testing Story' talk to attendees at PuppetConf 2016")
+
+
+[View my other conference talks](<.> 'Jordan Moldow’s conference talks — Talks I’ve presented at conferences, meetups, etc.')
 
 <!--END:turning-pain-into-gain-->
 <!-- AUTO-GENERATED FILE -->
