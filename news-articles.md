@@ -55,3 +55,25 @@ May 12, 2025
 > "The General Plan talks about the possibility for the city to purchase more of the land along Coleman Avenue to actually
 > expand the park. So this seems, contrary to previous city plans, to actually do the reverse of that (and) decrease the
 > size of the park by a pretty sizable amount," downtown resident Jordan Moldow said at the meeting.
+
+### [City Council talks waste management - Spartan Daily](https://scholarworks.sjsu.edu/spartan_daily_2023/60/)
+
+> Mayor Matt Mahan, City Councilmembers and San José residents addressed the issue of hazardous bike lanes obstructed by waste
+> products, illegal dumping and dumpsters at the weekly Tuesday City Council meeting.
+
+By Melany Gutierrez
+
+STAFF WRITER
+
+> San José resident Jordan Moldow said he supports most of the recommendations made, but has concerns since both the report and the
+> recommendation mention nothing about trash collisions. Moldow said he is worried if the report is accepted as is, the Integrated Waste
+> Management Enforcement Team might downplay problems pertaining to illegal or hazardous bike lane issues.
+>
+> "A man was killed in May while using a San José bike lane when his scooter struck an improperly placed brush pile and he was ejected,"
+> Moldow said. "This was a preventable tragedy, but sadly this represents the status quo. We need an immediate change before more lives are lost."
+>
+> Moldow said he see’s bike lanes obstructed by bins and dumpsters daily, which he said can be a hazard at night when they’re less visible.
+>
+> He said most dumpsters are always placed on top of bike lanes which is a violation of city law.
+>
+> "If cyclists leave the bike lane, they are at risk of car collisions," Moldow said. "Many seem ignorant or indifferent to bike lane safety."
