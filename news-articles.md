@@ -2,6 +2,20 @@
 
 ## Safe Streets and Urbanism
 
+### [San Jose poised to restore virtual public comment - San José Spotlight](https://sanjosespotlight.com/san-jose-poised-to-restore-virtual-public-comment/)
+
+> San Jose is poised to bring back virtual public comments during its meetings, two years after the city cut the option due to hate speech concerns.
+
+by [Keith Menconi](https://sanjosespotlight.com/profile/keith-menconi/)
+
+Contact Keith Menconi at keith@sanjosespotlight.com or @KeithMenconi on X.
+
+June 1, 2026
+
+> For residents looking forward to the change, adding all those new perspectives to San Jose’s public meetings will deliver a major boon for San Jose’s policy making process.
+>
+> “It just opens up the opportunity to participate in the civic process to more people,” Jordan Moldow, a traffic safety advocate and frequent public commenter, told San José Spotlight. “Members of the communities that I work with are spread out throughout the city with varying transportation arrangements and work arrangements and other family and community obligations. This will allow more of the people that I work with to participate in items that come up that are important to them.”
+
 ### [San Jose looks to make outdoor dining a permanent fixture &#8211; The Mercury News](https://www.mercurynews.com/2026/04/02/san-jose-al-fresco-outdoor-dining-permanent-rules-committee/)
 
 > City aims to boost economic growth and neighborhood vibrancy
