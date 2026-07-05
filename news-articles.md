@@ -59,6 +59,15 @@ Oshi Jauco, Public Information Manager, San José Clean Energy
 
 > **Mobility Champion:** This category recognizes an individual, group and/or organization who has shown leadership and vision in reducing transportation-related greenhouse gas emissions in San José and serving as a champion of sustainable transportation.
 
+#### [San Jose names Climate Smart Champions &#8211; The Mercury News](https://www.mercurynews.com/2026/07/05/san-jose-names-climate-smart-champions/)
+> Awards honor those who work toward sustainability
+
+By [Anne Gelhaus](https://www.mercurynews.com/author/anne-gelhaus/) | Bay Area News Group
+
+PUBLISHED: July 5, 2026 at 7:15 AM PDT
+
+> John Brazil was named Climate Smart Champion of the Year for his decades of leadership in expanding San José’s bikeway network and helping make biking safer and more connected. Another cycling advocate, Jordan Moldow, earned the Climate Smart Mobility Champion title.
+
 ### [San Jose poised to restore virtual public comment - San José Spotlight](https://sanjosespotlight.com/san-jose-poised-to-restore-virtual-public-comment/)
 
 > San Jose is poised to bring back virtual public comments during its meetings, two years after the city cut the option due to hate speech concerns.
