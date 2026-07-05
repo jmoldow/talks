@@ -94,7 +94,7 @@ Tuesday, April 30, 2024
 >
 > The 2024 Bike Champion of the Year award winners are:
 
-> **Santa Clara County:** Jordan Moldow is building a more cohesive "biketivist" community, serving on the San Jose Bicycle and Pedestrian Advisory Committee (BPAC) and encouraging riders to speak up for overlooked issues like trash obstructing bike lanes.
+> **Santa Clara County:** Jordan Moldow is building a more cohesive "biketivist" community, attending San Jose Bicycle and Pedestrian Advisory Committee (BPAC) meetings and encouraging riders to speak up for overlooked issues like trash obstructing bike lanes.
 
 > [See full details about the winners.](https://www.bayareabiketowork.com/event-information/bike-champions-of-the-year-2024)
 >
