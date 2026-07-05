@@ -2,7 +2,9 @@
 
 ## Safe Streets and Urbanism
 
-### [City of San José Announces the 2026 Climate Smart Champion Award Winners | City of San José](https://www.sanjoseca.gov/Home/Components/News/News/7388/4699)
+### 2026 Climate Smart Champion Award Winners
+
+#### [City of San José Announces the 2026 Climate Smart Champion Award Winners | City of San José](https://www.sanjoseca.gov/Home/Components/News/News/7388/4699)
 > San José recognizes local leaders advancing climate action through innovation, sustainability, and community impact
 
 Post Date: 06/23/2026 1:00 PM
@@ -41,6 +43,21 @@ Oshi Jauco, Public Information Manager, San José Clean Energy
 >
 > **About San José Clean Energy**
 > *San José Clean Energy (SJCE) is the local, not-for-profit electricity generation provider for homes and businesses in the City of San José. SJCE is operated by the City’s Energy Department and governed by the City Council. SJCE provides more than 350,000 customer accounts with clean energy at competitive rates plus the additional benefits of customer choice, community programs, local control, transparency, and accountability. For more information, please visit [www.SanJoseCleanEnergy.org](https://sanjosecleanenergy.org/). Follow us on [Facebook](https://www.facebook.com/SJCleanEnergy/), [X](https://x.com/sjcleanenergy), [Instagram](http://www.instagram.com/sjcleanenergy), and [LinkedIn](https://www.linkedin.com/company/69283436/).*
+
+#### [2026 Climate Smart Champion Awards](https://www.sanjoseca.gov/your-government/departments-offices/energy/climate-smart-san-jose/climate-smart-champions)
+
+> Congratulations to the 2026 Climate Smart Champions! These individuals and organizations are recognized for their outstanding efforts that aligned with the goals of Climate Smart San José and contributed to a more sustainable city in 2025.
+>
+> View the full category descriptions at [Climate Smart Champion Awards Categories](https://www.sanjoseca.gov/home/showpublisheddocument/127918/639051264097570000).
+>
+> The 2026 Climate Smart Champions selected this year are:
+
+> **Mobility Champion**
+> **Jordan Moldow**
+>
+> Jordan Moldow is a dedicated advocate for safer, cleaner, and more equitable transportation in San José. As Chair of the San José Bicycle and Pedestrian Advisory Committee, a member of the Silicon Valley Bicycle Coalition, and the 2024 Santa Clara County Bike Champion of the Year, he works to advance bicycling as a practical, low-carbon transportation option. Through his leadership and community engagement, Jordan helps connect residents with local decision-making, promotes safer biking infrastructure, and encourages greater participation in shaping transportation policies. His efforts support San José’s climate goals by making it easier and safer for people to choose biking for everyday trips, reducing reliance on cars while creating healthier, more connected communities.
+
+> **Mobility Champion:** This category recognizes an individual, group and/or organization who has shown leadership and vision in reducing transportation-related greenhouse gas emissions in San José and serving as a champion of sustainable transportation.
 
 ### [San Jose poised to restore virtual public comment - San José Spotlight](https://sanjosespotlight.com/san-jose-poised-to-restore-virtual-public-comment/)
 
