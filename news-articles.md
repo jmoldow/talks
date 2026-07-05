@@ -2,6 +2,46 @@
 
 ## Safe Streets and Urbanism
 
+### [City of San José Announces the 2026 Climate Smart Champion Award Winners | City of San José](https://www.sanjoseca.gov/Home/Components/News/News/7388/4699)
+> San José recognizes local leaders advancing climate action through innovation, sustainability, and community impact
+
+Post Date: 06/23/2026 1:00 PM
+
+CONTACT
+Oshi Jauco, Public Information Manager, San José Clean Energy
+408-533-3764; oshi.jauco@sanjoseca.gov
+
+> **SAN JOSE, *Calif.* (June 23, 2026)** – The City of San José is proud to announce the recipients of the 2026 Climate Smart Champion Awards, honoring individuals, businesses, and organizations whose actions are helping create a more sustainable, resilient, and equitable future for our community.
+>
+> "We commend our 2026 Climate Smart Champions for setting an example and inspiring others across San José to take action toward a greener, more sustainable future,” said City Manager Jennifer Maguire. “These climate champions are showing how local action makes a real difference, from cleaner air to greater energy resilience, their leadership is shaping the future of San José.”
+>
+> Presented annually by the City, the Climate Smart Champion Awards celebrate outstanding contributions across a range of climate and sustainability efforts. The awards recognize those who are advancing innovative solutions, engaging their communities, and helping move San José toward its climate goals. This year's recipients represent a diverse group of changemakers whose work is making a positive impact across the city.
+>
+> "Our 2026 Climate Smart Champions remind us that creating a more sustainable future is a shared effort,” said Mayor Matt Mahan. “Whether through innovation, advocacy, or everyday actions, individuals and businesses across San José are proving that meaningful change is possible when we all do our part."
+>
+> **2026 Climate Smart Champion Award Recipients**
+
+> **Climate Smart Mobility Champion:** Jordan Moldow for his dedication to making San José safer and more bike-friendly through community advocacy, public engagement, and efforts to encourage cleaner, healthier ways to get around.
+
+> "What makes this group of honorees special is the diversity of their contributions," said Julie Benabente, Climate Smart Deputy Director. "This year's award recipients include advocates, young leaders, businesses, and organizations that are each advancing climate solutions in their own way. Together, they show that there is no single path to climate leadership and that everyone has a role to play."
+>
+> "At San José Clean Energy, we know that climate progress is driven by local leadership and community partnership," said Lori Mitchell, Director of San José Clean Energy. “These Climate Smart Champions are showing how innovative ideas and dedicated action can create lasting benefits for our city.”
+>
+> The City of San José congratulates all of the 2026 Climate Smart Champion Award winners and thanks them for their commitment to creating a more sustainable future for everyone.
+>
+> Discover our Champion's accomplishments by visiting the [Climate Smart Champions webpage](https://www.sanjoseca.gov/your-government/departments-offices/energy/climate-smart-san-jose/climate-smart-champions) and signing up for the [Climate Smart San José email list](https://www.sanjoseca.gov/your-government/departments-offices/energy/climate-smart-san-jose/climate-smart-san-jos-notification-email-list).
+>
+> *Recognition through the Climate Smart Champion Awards does not constitute endorsement by the City of San José or San José Clean Energy of any business, organization, product, or service.*
+>
+> **About the City of San José**
+> *With almost 1 million residents, San José is one of the most diverse large cities in the United States, Northern California’s largest city, and the 13th largest city in the nation. San José’s transformation into a global innovation center has resulted in one of the largest concentrations of technology companies and expertise in the world.*
+>
+> **About Climate Smart San José**
+> *Climate Smart San José (Climate Smart), adopted by the City Council in 2018 and updated in 2025, lays out how San José is addressing climate change. Climate Smart is one of the first detailed City plans for reaching the targets of the international Paris Agreement. To get there, the Climate Smart 2025 update focused the City’s efforts on key strategies for energy, transportation, and buildings.*
+>
+> **About San José Clean Energy**
+> *San José Clean Energy (SJCE) is the local, not-for-profit electricity generation provider for homes and businesses in the City of San José. SJCE is operated by the City’s Energy Department and governed by the City Council. SJCE provides more than 350,000 customer accounts with clean energy at competitive rates plus the additional benefits of customer choice, community programs, local control, transparency, and accountability. For more information, please visit [www.SanJoseCleanEnergy.org](https://sanjosecleanenergy.org/). Follow us on [Facebook](https://www.facebook.com/SJCleanEnergy/), [X](https://x.com/sjcleanenergy), [Instagram](http://www.instagram.com/sjcleanenergy), and [LinkedIn](https://www.linkedin.com/company/69283436/).*
+
 ### [San Jose poised to restore virtual public comment - San José Spotlight](https://sanjosespotlight.com/san-jose-poised-to-restore-virtual-public-comment/)
 
 > San Jose is poised to bring back virtual public comments during its meetings, two years after the city cut the option due to hate speech concerns.
